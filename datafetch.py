@@ -52,6 +52,7 @@ class ParagraphParser(HTMLParser):
   def __init__(self, file):
     self.file = file
     self.enclosing_ps = 0
+    HTMLParser.__init__(self)
   def handle_starttag(self, tag, attrs):
     if tag == "p":
       self.enclosing_ps += 1
@@ -77,11 +78,14 @@ for post in posts:
       localHTML.write(response.read());
 
 for post in posts:
-  with open(filepath+post[1].rstrip('/')+".html", 'r') as localHTML:
+  filename = filepath+post[1].rstrip('/')+".html"
+  postParser = ParagraphParser(filename)
+  with open(filename, 'r') as localHTML:
     htmlLines = localHTML.readlines()
     with open(filepath+post[1].rstrip('/')+".txt", 'w+') as textFile:
       for line in htmlLines:
         title = re.search(r'(?<=<h1 class="pjgm-posttitle">).*(?=</h1>)', line)
         if title:
           textFile.write(title.group(0)+"\n")
-          break
+        postParser.feed(line)
+
