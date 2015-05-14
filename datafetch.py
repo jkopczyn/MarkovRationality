@@ -63,16 +63,18 @@ class ParagraphParser(HTMLParser):
       self.file.write(data + "\n")
     print("Encountered some data  :", data)
 
+need_web_download = False
 for post in posts:
-  try:
-    print post[0]
-    print post[1]
-    response = urllib2.urlopen(urllib2.Request(prefix+post[0]+post[1], "", headers))
-  except urllib2.HTTPError as e:
-    print e.geturl()
-    print e.read()
-  with open(filepath+post[1].rstrip('/')+".html", 'w+') as localHTML:
-    localHTML.write(response.read());
+  if need_web_download:
+    try:
+      print post[0]
+      print post[1]
+      response = urllib2.urlopen(urllib2.Request(prefix+post[0]+post[1], "", headers))
+    except urllib2.HTTPError as e:
+      print e.geturl()
+      print e.read()
+    with open(filepath+post[1].rstrip('/')+".html", 'w+') as localHTML:
+      localHTML.write(response.read());
 
 for post in posts:
   with open(filepath+post[1].rstrip('/')+".html", 'r') as localHTML:
