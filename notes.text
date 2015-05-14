@@ -1,0 +1,5 @@
+begins with
+<div class="pjgm-postcontent">
+and ends with
+<div class="sharedaddy sd-sharing-enabled">
+then strip out anything between <>
