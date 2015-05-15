@@ -1,1 +1,438 @@
 Wheat: Much More Than You Wanted To Know
+After hearing conflicting advice from diet books and the medical community, I decided to look into wheat.
+There are two sets of arguments against including wheat in the diet. First, wheat is a carbohydrate, and some people support low carbohydrate diets. Second, something might be especially dangerous about wheat itself.
+It was much easier to figure out the state of the evidence on low-carbohydrate diets. They seem to be 
+at least as good and maybe a little better
+ for weight loss than traditional diets, but this might just be because there are lots of carbohydrates that taste very good and when forced to avoid them, people eat less stuff. They may or may not positively affect metabolic parameters and quality of life. (
+1
+, 
+2
+, 
+3
+, 
+4
+). They don
+t seem to cause either major health benefits or major health risks in the medium term, which is the longest term for which there is good data available 
+ for example, they have 
+no effect on cancer rates
+. Overall they seem solid but unspectacular. But there
+s a long way between 
+low carbohydrate diet
+ and 
+stop eating wheat
+.
+So I was more interested in figuring out what was going on with wheat in particular.
+Wheat contains chemicals [citation needed]. The ones that keep cropping up (no pun intended) in these kinds of discussions are phytates, lectins, gluten, gliadin, and agglutinin, the last three of which for your convenience have been given names that all sound alike.
+Various claims have been made about these chemicals
+ effects on health. These have some prima facie plausibility. Plants don
+t want to be eaten [citation needed] and they sometimes fill their grains with toxins to discourage animals from eating them. Ricin, a lectin in the seeds of the castor oil plant so toxic it gets used in chemical warfare, is a pretty good example. Most toxins are less dramatic, and most animals have enzymes that break down the toxins in their preferred food sources effectively. But if humans are insufficiently good at this, maybe because they didn
+t evolve to eat wheat, some of these chemicals could be toxic to humans.
+On the other hand, this same argument covers every pretty much every grain and vegetable and a lot of legumes 
+ pretty much every plant-based food source except edible fruits. So we need a lot more evidence to start worrying about wheat.
+I found the following claims about negative effects of wheat:
+1. Some people without celiac disease are nevertheless sensitive to gluten.
+
+
+2. Wheat increases intestinal permeability, causing a leaky gut and autoimmune disease.
+
+
+3. Digestion of wheat produces opiates, which get you addicted to wheat.
+
+
+4. Wheat something something something autism and schizophrenia.
+
+
+5. Wheat has been genetically modified recently in ways that make it much worse for you.
+
+
+6. The lectins in wheat interfere with leptin receptors, making people leptin resistant and therefore obese.
+I
+ll try to look at each of those and then turn to the positive claims made about wheat to see if they
+re strong enough to counteract them.
+Some People Without Celiac Disease Are Sensitive To Gluten
+ 
+ 
+Mostly true but of limited significance
+Celiac disease is one source of concern. Everybody on all sides of the wheat debate agree about the basic facts of this condition, which affects a little less than 1% of the population. They have severe reactions to the gluten in wheat. Celiac disease is mostly marked by gastroentereological complaints 
+ diarrhea, bloating, abdominal pain 
+ but it is also associated with vitamin deficiencies, anaemia, skin reactions, infertility, and 
+malaise
+. It can be pretty straightforwardly detected by blood tests and gut biopsies and is not subtle.
+People start to disagree about the existence of 
+gluten sensitivity
+, which if it existed would be a bad reaction to gluten even in people who don
+t test positive for celiac disease. Many people believe they have gastrointestinal (or other) symptoms that go away when they eat gluten-free diets, but science can
+t find anything wrong with their intestines that could be causing the problems.
+A recent study somewhat vindicated these people. 
+Biesiekierski 2011
+ describes a double-blind randomized controlled trial: people who said they had 
+gluten-sensitive
+ irritable bowel syndrome were put on otherwise gluten-free diets and then randomly given either gluten or a placebo. They found that the patients given gluten reported symptoms (mostly bowel-related and tiredness) much more than those given placebo (p = 0.0001) but did not demonstrate any of the chemical, immunological, or histological markers usually associated with celiac disease. A similar 
+Italian study
+ found the same thing, except that they did find a higher rate of anti-gluten antibodies in their patients. Another study found that non-celiacs with antibodies to gluten 
+had higher rates of mortality
+. And another study 
+did find
+ a histological change in bowel barrier function on this group of patients with the introduction of gluten. And 
+another study from the same group
+ found that maybe FODMAPs, another component of wheat, are equally or more responsible. 
+The journal 
+Gastroenterology
+, which you may not be surprised to learn is the leading journal in the field of gastroenterology, proclaims:
+
+
+The current working definition of nonceliac gluten sensitivity (NCGS) is the occurrence of irritable bowel syndrome (IBS)-like symptoms after the ingestion of gluten and improvement after gluten withdrawal from the diet after exclusion of celiac disease based on negative celiac serologies and/or normal intestinal architecture and negative immunoglobulin (Ig)E-mediated allergy tests to wheat. Symptoms reported to be consistent with NCGS are both intestinal (diarrhea, abdominal discomfort or pain, bloating, and flatulence) and extra-intestinal (headache, lethargy, poor concentration, ataxia, or recurrent oral ulceration). These criteria strongly and conveniently suggest that NCGS is best understood as a subset of IBS or perhaps a closely related but distinct functional disorder. Although the existence of NCGS has been slowly gaining ground with physicians and scientists, NCGS has enjoyed rapid and widespread adoption by the general public.
+But even this isn
+t really that interesting. Maybe some people with irritable bowel syndrome or certain positive antibodies should try avoiding gluten to see if it helps their specific and very real symptoms. At most ten percent of people are positive antibody testing, and not all of those even have symptoms. That
+s still a far cry from saying no one should eat wheat.
+But the anti-wheat crowd says an alternative more sensitive antibody test could raise sensitivity 
+as high as a third of the population
+. The test seems to have been developed by a well-respected and legitimate doctor, but it hasn
+t as far as I can tell been submitted for peer review or been confirmed by any other source. Meh.
+That
+s boring anyway. The real excitement comes from sweeping declarations that 
+the entire
+ population is sensitive to wheat.
+Wheat Increases Intestinal Permeability Causing A Leaky Gut
+ 
+ 
+Probably true, of uncertain significance
+There are 
+gluten-induced mucosal changes in subjects without small bowel disease
+. And 
+gliadin increases intestinal permeability in the test tube
+, which should be extremely concerning to any test tubes reading this.
+But probably the bigger worry here are lectins, which include wheat germ agglutinin. WGA 
+affects the intestinal permeability of rats
+, which should be extremely concerning to any rats reading this. The same substance has been found to 
+produce pro-inflammatory cytokines
+ and 
+interfere with the growth of various organs including the gut
+.
+So there
+s pretty good evidence that chemicals in wheat can increase intestinal permeability. Who cares?
+For years, 
+leaky gut syndrome
+ was an alternative medicine diagnosis that was soundly mocked by the mainstream medical establishment. Then the mainstream medical establishment confirmed it existed and did that thing where they totally excused their own mocking of it but were ABSOLUTELY OUTRAGED that the alternative medicine community might have in some cases been overenthusiastic about it.
+Maybe I
+m being too harsh. The alternative medicine community often does take 
+leaky gut syndrome
+ 
+way too far
+.
+On the other hand, it
+s 
+probably real
+ and 
+Nature Clinical Practice
+ is now 
+publishing papers
+ saying it is 
+a key ingredient in the pathogenesis of autoimmune diseases
+ and 
+offers innovative, unexplored approaches for the treatment of these devastating diseases
+ and gut health 
+has been deemed
+ 
+a new objective in medicine
+. Preliminary changes to intestinal permeability have been found 
+in asthma
+, 
+in diabetes
+, and even 
+in depression
+. 
+But it
+s not yet clear if this is cause and effect. Maybe the stress of having asthma increases intestinal permeability somehow. Or maybe high intestinal permeability causes asthma somehow. It sure seems like the latter might work 
+ all sorts of weird antigens and stuff from food can make it into the bloodstream and alarm the immune system 
+ but right now this is all speculative.
+So what we have is some preliminary evidence that wheat increases intestinal permeability, and some preliminary evidence that increased intestinal permeability is bad for you in a variety of ways.
+And I don
+t doubt that those two facts are true, but my knowledge of this whole area is so weak that I wonder how much to worry.
+What other foods increase intestinal permeability? Do they do it more or less than wheat? Has anyone been investigating this? Are there common things that affect intestinal permeability a thousand times more than wheat does, such that everything done by wheat is totally irrelevant in comparison?
+Do people without autoimmune diseases suffer any danger from increased intestinal permeability? How much? Is it enough to offset the many known benefits of eating wheat (to be discussed later?) Fiber seems 
+to decrease intestinal permeability
+ and most people get their fiber from bread; would decreasing bread consumption make leaky gut even worse?
+I find this topic really interesting, but in a 
+I hope they do more research
+ sort of way, not an 
+I shall never eat bread ever again
+ sort of way.
+Digestion Of Wheat Produces Opiates, Which Get You Addicted To Wheat
+ 
+ 
+Probably false, but just true enough to be weird
+Dr. William Davis, a cardiologist, most famously makes this claim in his book 
+Wheat Belly
+. He says that gliadin (a component of gluten) gets digested into opiates, chemicals similar to morphine and heroin with a variety of bioactive effects. This makes you addicted to food in general and wheat in particular, the same way you would get addicted to morphine or heroin. This is why people are getting fat nowadays 
+ they
+re eating not because they
+re hungry, but because they
+re addicted. He notes that drugs that block opiates make people want wheat less.
+Does Wheat Make Us Fat And Sick
+, a review published in the 
+Journal of Cereal Science
+ (they have journals for 
+everything
+ nowadays) is a good rebuttal to some of Davis
+ claims and a good pro-wheat resource in general.
+They say that although gliadin does digest into opiates, those opiates are seven unit peptides and so too big to be absorbed from the gut to the bloodstream.
+(note that having opiates 
+in your gut
+ isn
+t a great idea either since there are lots of nerves there controlling digestion that can be affected by these drugs)
+But I
+m not sure this statement about absorption is even true. First, 
+large proteins can sometimes make it into the gut
+. Second, if all that leaky gut syndrome stuff above is right, maybe the gut is unusually permeable after wheat consumption. Third, 
+there have been sporadically reported cases of gliadin-derived opiates found in the urine
+, which implied they got absorbed somehow.
+There
+s a better counterargument on the blog 
+The Curious Coconut
+. She notes that there
+s no evidence these peptides can cross the blood-brain barrier, a precondition for having any psychological effects. And although the opiate-blocker naloxone does decrease appetite, this effect is not preferential for wheat, and probably more related to the fact that opiates are the way the brain reminds itself it
+s enjoying itself (so that opiate-blocked people can
+t enjoy eating as much).
+And then there
+s the usual absence of qualifiers. Lots of things are 
+chemically related
+ to other chemicals without having the same effect; are gliadin-derived opiates addictive? Are they produced in quantities high enough to be relevant in real life? Corn, spinach, and maybe meat can all get digested into opiates 
+ is there any evidence wheat-derived opiates are worse? This is really sketchy.
+The most convincing counterargument is that as far as anyone can tell, wheat 
+makes people eat less, not more
+:
+
+
+Prospective studies suggest that weight gain and increases in abdominal adiposity over time are lower in people who consume more whole grains. Analyses of the Physicians' Health Study (27) and the Nurses' Health Study (26) showed that those who consumed more whole grain foods consistently weighed less than those who consumed fewer whole grain foods at each follow-up period of the study. Koh-Banerjee et al. (27) estimated that for every 40-g increase in daily whole grain intake, the 8-y weight gain was lower by 1.1 kg.
+I
+ll discuss this in more detail later, but it does seem like a nail in the coffin for the 
+people eat too much because they
+re addicted to wheat
+ theory.
+Still, who would have thought that wheat being digested into opiates was even a 
+little
+ true?
+Wheat Something Something Something Autism And Schizophrenia
+ 
+ 
+Definitely weird
+Since gluten-free diets get tried for everything, and everything gets tried for autism, it was overdetermined that people would try gluten-free diets for autism.
+All three of the issues mentioned above 
+ immune reactivity to gluten, leaky guts, and gliadin-derived opiates 
+ have been suggested as mechanisms for why gluten free diets might be useful in autism.
+Of studies that have investigated, 
+a review found
+ that seven reported positive results, four negative results, and two mixed results 
+ but that all of the studies involved were terrible and the ones that were slightly less terrible seemed to be more negative. The authors described this as evidence against gluten-free diets for autism, although someone with the opposite bias could have equally well looked at the same review and described it as supportive.
+However, a very large epidemiological study found (
+popular article
+, 
+study abstract
+) that people with antibodies to gluten had three times the incidence of autism spectrum disease than people without, and that the antibodies preceded the development of the condition. 
+Also, those wheat-derived opioids from the last section 
+ as well as milk-derived opioids called casomorphins 
+ 
+seem to be detected at much higher rates in autistic people
+. 
+Both of these factors may have less to do with wheat in particular and more to do with some general dysregulation of peptide metabolism in autism. If for some reason the gut kept throwing peptides into the body inappropriately, this would disrupt neurodevelopment, lead to more peptides in the urine, and give the immune system more chance to react to gluten.
+The most important thing to remember here is that it would be really wrong to say wheat might be 
+the cause
+ of autism. Most likely people do not improve on gluten-free diets. While there
+s room to argue that people might have picked up a small signal of them improving 
+a little
+, the idea that this totally removes the condition is right out. If we were doing this same study with celiac disease, we wouldn
+t be wasting our time with marginally significant results. Besides, we know autism is multifactorial, and we know it probably begins in utero.
+Schizophrenia right now is in a similar place. Schizophrenics are 
+five to seven times more likely
+ to have anti-gliadin antibodies as the general population. We can come up with all sorts of weird confounders 
+ maybe antipsychotic medications increase gut permeability? 
+ but that
+s a really strong result. And schizophrenics have frank celiac disease at 
+five to ten times
+ the rate of the general population. Furthermore, a certain subset of schizophrenics sees 
+a dramatic reduction in symptoms
+ when put on a strict gluten-free diet (this is psychiatrically useless, both because we don
+t know which subset, and because given how much trouble we have getting schizophrenics to swallow one lousy pill every morning, the chance we can get them to stick to a gluten-free diet is basically nil). And like those with autism, schizophrenics show increased levels of weird peptides in their urine.
+But a lot of patients with schizophrenia don
+t have reactions to gluten, a lot don
+t improve on a gluten free diet, and other studies question the research showing that any of them at all do.
+The situation here looks a lot like autism 
+ a complex multifactorial process that probably isn
+t caused by gluten but where we see interesting things going on in the vague territory of gluten/celiac/immune response/gut permeability/peptides, with goodness only knows which ones come first and which are causal.
+Wheat Has Been Genetically Modified Recently In Ways That Make It Much Worse For You
+ 
+ 
+Probably true, especially if genetically modified means 
+not genetically modified
+ and 
+recently
+ means 
+nine thousand years ago
+If you want to blame the 
+obesity epidemic
+ or 
+autism epidemic
+ or any other epidemic on wheat, at some point you have to deal with people eating wheat for nine thousand years and not getting epidemics of these things. Dr. Davis and other wheat opponents have turned to claims that wheat has been 
+genetically modified
+ in ways that improve crop yield but also make it more dangerous. Is this true?
+Wheat has not been genetically modified in the classic sense, the one where mad scientists with a god complex inject genes from jellyfish into wheat and all of a sudden your bread has tentacles and every time you try to eat it it stings you. But it has been modified in the same way as all of our livestock, crops, and domestic pets 
+ by selective breeding. Modern agricultural wheat doesn
+t look much like its ancient wild ancestors.
+The 
+Journal Of Cereal Science
+ folk don
+t seem to think this is terribly relevant. They 
+say
+:
+
+
+Gliadins are present in all wheat lines and in related wild species. In addition, seeds of certain ancient types of tetraploid wheat have even greater amounts of total gliadin than modern accessions
+There is no evidence that selective breeding has resulted in detrimental effects on the nutritional properties or health benefits of the wheat grain, with the exception that the dilution of other components with starch occurs in modern high yielding lines (starch comprising about 80% of the grain dry weight). Selection for high protein content has been carried out for bread making, with modern bread making varieties generally containing about 1-2% more protein (on a grain dry weight basis) than varieties bred for livestock feed when grown under the same conditions. However, this genetically determined difference in protein content is less than can be achieved by application of nitrogen fertilizer. We consider that statements made in the book of Davis, as well as in related interviews, cannot be substantiated based on published scientific studies.
+In support of this proposition, in the test tube ancient grains 
+were just as bad
+ for celiac patients
+ immune systems as modern ones.
+And yet in one double-blind randomized-controlled trial, people with irritable bowel syndrome 
+felt better
+ on a diet of ancient grains than modern ones (p 
+<
+ 0.0001); and in another, people on an ancient grain diet had 
+lower inflammatory markers and generally better nutritional parameters
+ than people on a modern grain one. Isn
+t that interesting?
+Even though it
+s a little bit weird and I don
+t think anyone understands the exact nutrients at work, sure, let
+s give this one to the ancient grain people.
+The Lectins In Wheat Interfere With Leptin Receptors, Making People Leptin Resistant And Therefore Obese
+ 
+ 
+Currently at 
+mere assertion
+ level until I hear some evidence
+So here
+s the argument. Your brain has receptors for the hormone leptin, which tells you when to stop eating. But 
+lectin
+ sounds a lot like 
+leptin
+, and this confuses the receptors, so they give up and tell you to just eat as much as you want.
+Okay, this probably isn
+t the real argument. But even though a lot of wheat opponents cite the heck out of this theory, the only presentation of evidence I can find is 
+Jonsson et al (2005)
+, which points out that there are a lot of diseases of civilization, they seem to revolve around leptin, something common to civilization must be causing them, and maybe that thing could be lectin.
+But civilization actually contains more things than a certain class of proteins found in grains! There
+s poor evidence of lectin actually interfering with the leptin receptor in humans. The only piece of evidence they provide is a nonsignificant trend toward more cardiovascular disease in people who eat more whole grains in one study, and as we will see, that is wildly contradicted by all other studies.
+This one does not impress me much.
+Wheat Is Actually Super Good For You And You Should Have It All The Time
+ 
+ 
+Probably more evidence than the other claims on this list
+Before I mention any evidence, let me tell you what we
+re going to find.
+We
+re going to find very, very many large studies finding conclusively that whole grains are great in a lot of different ways.
+And we
+re not going to know whether it
+s at all applicable to the current question.
+Pretty much all these studies show that people with some high level of 
+whole grain consumption
+ are much healthier than people with some lower level of same. That sounds impressive.
+But what none of these studies are going to do a good job ruling out is that whole grain is just funging against refined grain which is even worse. Like maybe the people who report low whole grain consumption are eating lots of refined grain, and so more total grain, and the high-whole-grain-consumption people are actually eating less grain total.
+They
+re also not going to rule out the universal problem that if something is widely known to be healthy (like eating whole grains) then the same health-conscious people who exercise and eat lots of vegetables will start doing it, so when we find that the people doing it are healthier, for all we know it
+s just that the people doing it are exercising and eating vegetables.
+That having been said, eating lots of whole grain decreases BMI, metabolic risk factors, fasting insulin, and body weight (
+1
+, 
+2
+, 
+3
+, 
+4
+,
+5
+.)
+The American Society For Nutrition Symposium 
+says
+:
+
+
+Several mechanisms have been suggested to explain why whole grain intake may play a role in body weight management. Fiber content of whole grain foods may influence food volume and energy density, gastric emptying, and glycemic response. Whole grains has also been proposed to play an important role in promoting satiety; individuals who eat more whole grain foods may eat less because they feel satisfied with less food. Some studies comparing feelings of fullness or actual food intake after ingestion of certain whole grains, such as barley, oats, buckwheat, or quinoa, compared with refined grain controls indicated a trend toward increased satiety with whole grains. These data are in accordance with analyses determining the satiety index of a large number of foods, which showed that the satiety index of traditional white bread was lower than that of whole grain breads. However, in general, these satiety studies have not observed a reduction in energy intake; hence, further research is needed to better understand the satiety effects of whole grains and their impact on weight management.
+Whole grains, in some studies, have also been observed to lower the glycemic and insulin responses, affect hunger hormones, and reduce subsequent food intake in adults. Ingestion of specific whole grains has been shown to influence hormones that affect appetite and fullness, such as ghrelin, peptide YY, glucose-dependent insulinotropic polypeptide, glucagon-like peptide 1, and cholecystokinin. Whole grain foods with fiber, such as wheat bran or functional doses of high molecular weight Beta-glucans, compared with lower fiber or refined counterparts have been observed to alter gastric emptying rates. Although it is likely that whole grains and dietary fiber may have similar effects on satiety, fullness, and energy intake, further research is needed to elucidate how, and to what degree, short-term satiety influences body weight in all age groups.
+Differences in particle size of whole grain foods may have an effect on satiety, glycemic response, and other metabolic and biochemical (leptin, insulin, etc.) responses. Additionally, whole grains have been suggested to have prebiotic effects. For example, the presence of oligosaccharides, RS, and other fermentable carbohydrates may increase the number of fecal bifidobacteria and lactobacilli (49), thus potentially increasing the SCFA production and thereby potentially altering the metabolic and physiological responses that affect body weight regulation.
+In summary, the current evidence among a predominantly Caucasian population suggests that consuming 3 or more servings of whole grains per day is associated with lower BMI, lower abdominal adiposity, and trends toward lower weight gain over time. However, intervention studies have been inconsistent regarding weight loss
+The studies that combined whole and refined grains are notably fewer. But 
+Dietary Intake Of Whole And Refined Grain Breakfast Cereals And Weight Gain In Men
+ finds that among 18,000 male doctors, those who ate breakfast cereal (regardless of whether it was whole and refined) were less likely to become overweight several years later than those who did not (p = 0.01). A 
+book with many international studies
+ report several that find a health benefit of whole grains, several that find a health benefit of all grains (Swedes who ate more grains had lower abdominal obesity; Greeks who ate a grain-rich diet were less likely to become obese; Koreans who ate a 
+Westernized
+ bread-and-dairy diet were less likely to have abdominal obesity) and no studies that showed any positive association between grains and obesity, whether whole or refined.
+I cannot find good interventional trials on what happens when a population replaces non-grain with grain.
+On the other hand, Dr. Davis and his book 
+Wheat Belly
+ claim:
+
+
+Typically, people who say goodbye to wheat lose a pound a day for the first 10 days. Weight loss then slows to yield 25-30 pounds over the subsequent 3-6 months (differing depending on body size, quality of diet at the start, male vs. female, etc.) 
+Recall that people who are wheat-free consume, on average, 400 calories less per day and are not driven by the  90-120 minute cycle of hunger that is common to wheat. It means you eat when you are hungry and you eat less. It means a breakfast of 3 eggs with green peppers and sundried tomatoes, olive oil, and mozzarella cheese for breakfast at 7 am and you're not hungry until 1 pm. That's an entirely different experience than the shredded wheat cereal in skim milk at 7 am, hungry for a snack at 9 am, hungry again at 11 am, counting the minutes until lunch. Eat lunch at noon, sleepy by 2 pm, etc. All of this goes away by banning wheat from the diet, provided the lost calories are replaced with real healthy foods.
+Needless to say, he has no studies supporting this assertion. But the weird thing is, his message board is full of people who report having exactly this experience, my friends who have gone paleo have reported exactly this experience, and when I experimented with it, I had pretty much exactly this experience. Even the blogger from whom I took some of the strongest evidence criticizing Davis says 
+she had exactly this experience
+.
+The first and most likely explanation is that anecdotal evidence sucks and we should shut the hell up. Are there other, less satisfying explanations?
+Maybe completely removing wheat from the diet has a nonlinear effect relative to cutting down on it? For example, in celiac disease there is no such thing as 
+partially gluten free
+ 
+ if you have any gluten at all, your disease comes back in full force. This probably wouldn
+t explain Dr. Davis
+ observation 
+ neither I nor my other wheatless-experimentation friends were as scrupulous as a celiac would have to be. But maybe there
+s a nonlinear discrepancy between people who have 75% the wheat of a normal person and 10% the wheat of a normal person?
+Maybe there
+s an effect where people who like wheat but remove it from the diet are eating things they don
+t like, and so eat less of them? But people who don
+t like wheat like other stuff, and so eat lots of that?
+Maybe wheat in those studies is totally 100% a confounder for whether people are generally healthy and follow their doctor
+s advice, and the rest of the doctor
+s advice is really good but the wheat itself is terrible?
+Maybe cutting out wheat has really positive short-term effects, but neutral to negative long-term effects?
+Maybe as usual in these sorts of situations, 
+the simplest explanation
+ is best.
+Final Thoughts
+Non-celiac gluten sensitivity is clearly a real thing. It seems to produce irritable bowel type symptoms. If you have irritable bowel type symptoms, it might be worth trying a gluten-free diet for a while. But the excellent evidence for its existence doesn
+t seem to carry over to the normal population who don
+t experience bowel symptoms.
+What these people have are vague strands of evidence. Something seems to be going on with autism and schizophrenia 
+ but most people don
+t have autism or schizophrenia. The intestinal barrier seems to become more permeable with possible implications for autoimmune diseases 
+ but most people don
+t have autoimmune disease. Some bad things seem to happen in rats and test tubes 
+ but most people aren
+t rats or test tubes.
+You
+d have to want to take a position of maximum caution 
+ wheat seems to do all these things, and even though none of them in particular obviously hurt me directly, all of them together make it look like the body just doesn
+t do very well with this substance, and probably other ways the body doesn
+t do very well with this substance will turn up, and some of them probably affect me.
+There
+s honor in a position of maximum caution, especially in a field as confusing as nutrition. It would not surprise me if the leaky gut connection turned into something very big that had general implications for, for example, mental health. And then people who ate grain might regret it.
+But stack that up against the pro-wheat studies. None of them are great, but they mostly do something the anti-wheat studies don
+t: show direct effect on things that are important to you. Most people don
+t have autism or schizophrenia, but most people 
+do
+ have to worry about cardiovascular disease. We 
+do
+ have medium-term data that wheat doesn
+t cause cancer, or increase obesity, or contribute to diabetes, or any of that stuff, and at this point solely based on the empirical data it seems much more likely to help with those things than hurt.
+I hope the role of intestinal permeability in autoimmune disease gets the attention it deserves 
+ and when it does, I might have to change my mind. I hope people stop being jerks about gluten sensitivity, admit it exists, and find better ways to deal with it. And if people find that eliminating bread from their diet makes them feel better or lose weight faster, cool.
+But as far as I can tell the best evidence is on the pro-wheat side of things for most people at most times.
+[
+EDIT:
+ An especially good summary of the anti-wheat position is 
+6 Ways Wheat Can Destroy Your Health
+. An especially good pro-wheat summary is 
+Does Wheat Make Us Fat And Sick?
+]

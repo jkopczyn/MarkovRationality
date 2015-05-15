@@ -70,7 +70,7 @@ s what the Scottish study says of its methodology:
 
 
 The study was originally located in the Central Clydeside Conurbation (Figure 3), a socially heterogeneous and predominantly urban region, including Glasgow City, which is known to have generally poor health. Two-stage stratified sampling was used to select subjects. For the regional sample, local government districts were stratified by unemployment and socio-economic group data from the 1981 Census and 52 postcode sectors were systematically selected from these with a probability proportionate to their population size. The same postcode sectors were chosen for all three cohorts. The sampling frame used for individuals was Strathclyde Regional Council
-s 1986 Voluntary Population Survey—an enhanced electoral register that provides details of the age and sex of all household members.3 Individuals were selected from the 52 postcode sectors within each age cohort with a systematic selection with a prescribed sampling interval from a random start.
+s 1986 Voluntary Population Survey--an enhanced electoral register that provides details of the age and sex of all household members.3 Individuals were selected from the 52 postcode sectors within each age cohort with a systematic selection with a prescribed sampling interval from a random start.
 I was getting bored by the time I made it to the Australian study, but I managed to keep my attention on it long enough to note the following sentence:
 
 

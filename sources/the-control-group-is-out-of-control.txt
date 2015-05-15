@@ -147,7 +147,7 @@ here
 s Bem:
 
 
-An opportunity to calculate an approximate answer to this question emerges from a Bayesian critique of Bem’s (2011) experiments by Wagenmakers, Wetzels, Borsboom, 
+An opportunity to calculate an approximate answer to this question emerges from a Bayesian critique of Bem's (2011) experiments by Wagenmakers, Wetzels, Borsboom, 
  van der Maas (2011). Although Wagenmakers et al. did not explicitly claim psi to be impossible, they came very close by setting their prior odds at 10^20 against the psi hypothesis. The Bayes Factor for our full database is approximately 10^9 in favor of the psi hypothesis (Table 1), which implies that our meta-analysis should lower their posterior odds against the psi hypothesis to 10^11
 Let me shame both participants in this debate.
 Bem, you are abusing Bayes factor. If Wagenmakers uses your 10^9 Bayes factor to adjust from his prior of 10^-20 to 10^-11, then what happens the next time you come up with another database of studies supporting your hypothesis? We all know you will, because you

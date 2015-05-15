@@ -1,1 +1,233 @@
 Social Psychology Is A Flamethrower
+Mark Twain:
+
+
+There is something fascinating about science. One gets such wholesale returns of conjecture out of such a trifling investment of fact.
+If this is true of all science, it is doubly true of social psychology.
+At its best, social psychology is an unmatched window into human motivations, a 
+look under the hood
+ of the way people talk and act. The best research in social psychology is as well-supported as anything in physics or biology, and much more intuitively comprehensible. This is why it
+s one of my favorite scientific fields.
+But at its worst, social psychology is a flamethrower. People grab hold of it to try to fry their political opponents, then end up lighting their own hair on fire or burning down half a city. Because social psych is 
+really hard
+ to do right.
+Social psychology experiments in the laboratory tend to throw up spectacular mind-boggling effects. Many of these fail to replicate and are later discredited. The ones that do replicate are not always generalizable 
+ sometimes an even 
+slightly
+ different situation will remove the effect or create exactly the opposite effect. The effects that remain robust in the laboratory may be too short-lasting or too specific to have any importance in real life. And the ones that do matter in real life may respond unpredictably or even paradoxically to attempts to control them.
+This is relevant because a lot of our political discourse revolves around ideas lifted from social psychology. Every time someone advocates banning violent videogames so that they don
+t normalize violence, they
+re using social psych. Anyone who says the media needs more positive role models of minority groups and fewer stereotypes, they
+re taking terms out of the social psych lexicon. Whenever you complain that magazines objectify women, you
+re implicitly buying into several social psych theories.
+Most people are not consequentialists, but most people feel implicitly uncomfortable making moral arguments on non-consequentialist grounds. 
+Stop what you
+re doing, it disgusts and offends me
+ is less noble than 
+stop what you
+re doing, it will hurt people who can
+t stand up for themselves
+. This tempts people who are disgusted and offended by things to come up with just-so stories from social psychology for why the disgusting and offensive thing will also hurt people.
+I tried writing a post arguing against several of these just-so stories, but it ended up being 
+unbearably
+ long and boring (if you
+re ever stuck with insomnia, ask me to give you a trenchant analysis of every study that
+s ever been written about stereotype threat). So I
+m going to try something different. I
+m going to write up some just-so stories using social psychology for the opposite side. I
+m going to try to use well-established social psych results to prove that we should have 
+more
+ violence in the media, and be 
+more
+ tolerant of offending women and minorities.
+I think some of the arguments below will be completely correct, others correct only in certain senses and situations, and still others intriguing but wrong. I think that modern pop social psychology probably contains the same three categories in about the same breakdown, so I don
+t feel too bad about this.
+Violence In The Media Prevents Violent Crime
+Dahl and DellaVigna
+ (2008), well aware of laboratory experiments that found violent media temporarily made subjects more violent, decided to investigate whether the opening weekends of blockbuster violent movies affected crime rates. Sure enough, they found they did
+in the opposite of the expected direction. They found violent movies decreased crime 5% or more on their opening weekends, and that each violent movie that comes out probably prevents about 1000 assaults. Further, there
+s no displacement effect 
+ the missing crimes don
+t pop back the following week, they simply never occur.
+They hypothesize that every hour violent criminals are at the kind of movies that appeal to violent criminals is one hour more they
+re not getting drunk or taking drugs or committing violent crimes. Although they don
+t mention it directly, other analyses have suggested that the movies have a sort of cathartic effect, satisfying their urge for violence without them having to commit it themselves.
+An investigation into violent video games found essentially the same pattern: 
+violent video games decrease crime
+ while nonviolent video games have no effect.
+There are also studies that show that playing lots of violent video games is correlated with violent criminality, but a much more plausible explanation of the data is that a naturally violent personality makes people more likely to enjoy violence both in games and in real life.
+Decreasing violence in the media might therefore be predicted to increase violent crime, both by putting more criminals out on the streets and by sabotaging their attempts to indulge their violent urges in an acceptable manner.
+Media That Objectifies Women Prevents Rape
+Just as violent movies prevent violent crime, 
+pornography may prevent rape
+. It
+s easy to prove that in the US every 10% increase in Internet access causes a 7.3% decline in rape, and it
+s not due to any of the expected confounders. 
+Another study
+ points out a similar correlation in Japan. I find the particular correlation they mention very sketchy, but Japan does have a very low rate of reported sex crimes (a commenter brings up the possibility that Japanese culture merely discourages reporting). Other more rigorous studies on 
+the Czech Republic
+ show the same, and studies on child porn show pedophilia is less common where it
+s more accessible. And these studies links to more interesting results, mentioning how sex criminals are less likely to consume pornography than the general population and start watching pornography at a later age.
+This is explicable not only by the substitution effect mentioned above, but by the general tendency of orgasm to relieve frustration. If, as has been hypothesized, rape is an expression of anger and powerlessness at the world in general or women in particular, orgasming to violent porn is going to both satisfy that aggressive impulsive and replace it with general post-coital relaxation.
+Saying Tests Are Biased Against Minorities Makes Minorities Perform Worse On Tests
+It is relatively clear that achievement gaps on standardized tests 
+ black-white, male-female, and the others 
+ are not due to bias in the tests themselves. Although some sociologists raise the specter of 
+tests that claim to be fair by asking both rich and poor people the same questions about golf and yachting
+, in real life achievement gaps remain mostly consistent across verbal tests, pure mathematical tests, symbol manipulation tests, and extremely basic and un-bias-able tests like ability to remember numbers backwards.
+This has not stopped the constant repetition that various specific tests 
+ SAT, GRE, IQ 
+ are biased against minorities.
+We know exactly what happens when minorities are told tests are biased against them: they do worse on those tests. This is the essence of the idea of 
+stereotype threat
+ 
+ for example, one can improve women
+s performance on a math test 
+simply by telling them that the test is not biased against women.
+ So maybe we should stop doing exactly the thing that we just proved hurts women and minorities
+ educational performance.
+Fighting Stereotypes Makes People More Prejudiced
+The largest-ever study on diversity training, following 830 large companies over 31 years, 
+found
+:
+
+
+A comprehensive review of 31 years of data from 830 mid-size to large U.S. workplaces found that the kind of diversity training exercises offered at most firms were followed by a 7.5 percent drop in the number of women in management. The number of black, female managers fell by 10 percent, and the number of black men in top positions fell by 12 percent. Similar effects were seen for Latinos and Asians.
+Similarly, all studies on sensitivity training find that trainees express more 
+awareness
+ of sexual harassment than non-employees, but a study that went further and examined results 
+found that
+ trainees are 
+less likely to perceive coercive sexual harassment, less willing to report sexual harassment, and more likely to blame the victim
+.
+This is not particularly unexpected: we know for example that nearly every study on DARE programs 
+has found that they increase drug use, sometimes as much as 30%
+.
+Why should this be? Three reasons come to mind. The first is a 
+boomerang effect
+ from the programs themselves. Diversity training, sensitivity training, and DARE are all things busy people are required to attend where they (essentially) are forced listen to people behave condescendingly to them. This makes them dislike the training, their instructors, and, by association, the opinions they are trying to get trained into them.
+A second reason is more fundamental. The 
+backfire effect
+ is when people challenged with information that disproves a cherished political belief of theirs react by becoming even more certain of the belief. The link will fill you in on potential explanations.
+And the third reason is what the 
+Harvard Business Review Blog
+, in its discussion of the diversity training study above, described as 
+when people divide into categories to illustrate the idea of diversity, it reinforces the idea of the categories.
+ 
+I
+ll admit I had a sheltered upbringing and may be atypical, but I would estimate about 90% of the racist stereotypes I have ever heard were part of efforts to fight racism. No one just comes up to you and says 
+Hey, you know black people? Pretty unintelligent, huh?
+ (at least not to 
+me
+). But social justice people will repeat the stereotype about black people not being intelligent again, and again, and again, to anyone who is anywhere near them, in the guise of fighting it.
+I can
+t find the link for this, but negatively phrased information can sometimes reinforce the positive version of that information. For example, if you tell people 
+President Obama is not a Muslim
+, then a year later, all someone will remember is 
+blah Obama blah blah blah Muslim
+, and eventually 
+Ohmigod, President Obama is a Muslim!
+, even if they didn
+t believe that before they heard that fact 
+corrected
+.
+Imagine I told you 
+People from Comoros are 
+not
+ all homosexual! This is a damn lie, and anyone who says people from Comoros are homosexual is an insensitive jerk. Please join me in fighting the popular perception that everyone from Comoros is a flaming gay.
+Go ahead, try to think of Comoros in 
+any context
+ other than an archipelago full of gay people now. I
+ll wait. Take a whole lifetime, if you want. It won
+t help. Ten years after this blog is deleted and this post is inaccessible except through archive.org, there will still be a couple dozen people who are convinced that everyone from Comoros is gay, because they 
+heard it somewhere
+. At the very least, the idea of Comoros = homosexuality is now firmly implanted in your mind, and it will be impossible to meet a Comorosian without secretly evaluating her sexual orientation and then trying to stop yourself from doing it.
+Now imagine instead of hearing this once, you heard it every day of your life.
+Calling People Racist Makes Them More Racist
+Foster 
+ Misra
+  (2013) is a jewel of a paper I stumbled across totally by chance.
+They got a bunch of undergraduate students in romantic relationships and gave them a test that asked them some questions about infidelity 
+ things like 
+is it unfaithful to fantasize about another girl/boy when you
+re in a relationship?
+. They pretended to grade the test, but in fact they ignored the test and gave fake feedback.
+The control group was told that they had some of the highest faithfulness scores of anyone in the experiment, they must be really faithful, good job. The experimental group was told they had some of the lowest faithfulness scores of anyone in the experiment and that the test had pegged them as having an unfaithful personality type. Once again, all this feedback was fake and both groups got around the same average score.
+Then they measured what they called 
+trivialization
+ in both groups 
+ that is, they asked them questions about how important faithfulness was to them. Consistent with their theory, the people who were told they were faithful said faithfulness was extremely important, but the people who were told they were unfaithful 
+trivialized
+ the behavior 
+ who cares about fidelity anyway, infidelity is 
+maybe
+ a minor mistake but it doesn
+t really hurt anyone, people should really stop whining about infidelity all the time. To give you a feeling for the size of this effect, on a scale of one to seven, the faithful group rated the importance of being faithful at 5.4/7, and the unfaithful group rate the importance of being faithful at 2.9/7. In other words, by accusing them of being unfaithful, the experimenters had successfully gotten the participants to 
+trivialize
+ faithfulness.
+The researchers theorized that this was the process called "cognitive dissonance". Most people like themselves and want to continue to like themselves. If they are told that they, or their group, has a particular flaw, then instead of ceasing to like themselves it may be easier to just decide that flaw is not a big deal and they can have it while continuing to be the awesome people they secretly know they are.
+Now not only do the experimental subjects here stop caring about being faithful, but everyone pushing a pro-fidelity line is a threat to their new identity. And 
+the subjects weren
+t even really unfaithful to begin with!
+Modern political discourse tends to do a lot of things like say 
+All white people are racist
+ or 
+all men are naturally prone to violence and potential rapists
+. Or it may take little things normal people do and tell them they are racist or creepy or rape-y or something because of it.
+What this does is drive people into identifying with these negative labels. And instead of making them want to change their behavior to stop identifying with these labels, it may just make them think 
+Well, if 
+I
+ do it, then I guess it can
+t be so bad.
+Talking About Rape Culture Causes Rape
+There is a strong debate still going on about whether the death penalty decreases crime. But this hides a more settled question, which is whether punishment decreases crime at all. The relatively accepted answer is yes, it does.
+Criminologists have tried to separate out the important of punishment into two aspects: severity and certainty. They have 
+consistently found
+ that the certainty of the punishment is more important than the severity 
+ the most important factor in whether someone commits a crime is the likelihood she will be punished.
+No criminal can see into the future to discover whether or not they will be punished; the only way certainty of punishment can influence crime is through public perception of certainty of punishment. That suggests that if you discover that an abominable crime has (contrary to popular perception) a very low chance of punishment, it would be an excellent time to practice 
+the virtue of silence
+.
+Or consider the claim that rape jokes cause rape. As I understand it, the claim goes that someone tells a rape joke, then everyone else laughs, no one protests or anything, and then potential rapists in the audience conclude that they are in a culture that considers rape acceptable.
+You know what else could potentially cause people to think our culture considers rape acceptable? Writing and publicizing countless books and articles arguing elegantly and vehemently for the point that our culture considers rape acceptable. Seriously. If I were a demon from Hell, 
+charged by my infernal masters
+ with increasing rape as much as possible, I literally could not think of a better strategy than talking about rape culture all the time.
+Getting angry at the rape jokes while enthusiastically taking part in the demonic campaign thing seems like (to mix metaphors) missing the mountain for the molehill.
+Summary
+In this post, I
+ve give six social psychological just-so stories: media violence prevents crime, objectification of women prevents rape, accusations of test bias hurts minorities, fighting stereotypes makes people more prejudiced, calling people racist makes them more racist, and talking about rape culture increases rape.
+These can be easily compared to six much more common social psychological just-so stories: media violence causes crime, objectification of women causes rape, accusations of minorities doing worse on tests for intrinsic reasons like their culture hurt minorities, fighting stereotypes makes people less prejudiced, calling people racist shames them out of their racism, and making rape jokes increases rape.
+I don
+t consider any of my six completely proven, just intriguing and intuitively plausible. And of course, there
+s an element of concern-trolling in all of them.
+But I don
+t consider any of the second six completely proven either; again, they are merely intriguing and intuitively plausible. And they have their own element of being suspiciously congruent to the political beliefs of the people who push them, as if they
+re trying to come up with consequentialist justifications for ideas they hold for other reasons.
+Some will point to various studies conducted on one or another of them, but with very few exceptions all those studies have been poorly replicated investigations into the very-short-term (less than ten minutes) effect of laboratory interventions on proxy variables. These can be diametrically opposite their real social effects 
+ for example, the laboratory experiments that experimental exposure to violence causes people to play contrived games in a more aggressive manner couldn
+t catch that in the real world, violent movies decrease crime. And poorly replicated short-term laboratory interventions on proxy variables can prove nearly anything 
+ see for example the recent controversy around 
+whether the word 
+Florida
+ makes people walk more slowly
+.
+The six stories above suggest some pretty radical and unpalatable action approaching social engineering. For example, the idea that research into test bias should be suppressed, even if it is scientifically rigorous, just because hearing about it might hurt women 
+ seems pretty unfair (same with the idea that no one should be allowed to talk about rape culture) And it seems unreasonable to ask people to constantly watch their language around white people to avoid anything that sounds like accusing them of racism because that could have unpredictable negative effects on them down the line. 
+But the six traditional stories also suggest pretty radical and unpalatable action approaching social engineering. For example, the idea that 
+research into gender differences should be suppressed
+, even if it is scientifically rigorous, because hearing about it might hurt women. Also unpopular is the idea of constantly having to watch your language around minorities to avoid anything that sounds like you
+re saying something racist because that could have unpredictable negative effects down the line.
+And my point is that I don
+t see good enough evidence that the effects involved are real to justify either of them.
+Using speculative extrapolations from social psychology to promote social engineering is dangerous and 
+proves too much
+. Of course, one should still be 
+nice
+, and a big part of niceness is judicious exercise of the 
+virtue of silence
+ . But trying to institute and enforce said virtue on a social level requires subtlety that I have not yet seen anyone involved show the slightest sign of possessing.
+Post Scriptum
+Think quick! What is your brain
+s number one thought upon hearing 
+Comoros
+?

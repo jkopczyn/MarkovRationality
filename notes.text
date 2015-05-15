@@ -3,3 +3,6 @@ begins with
 and ends with
 <div class="sharedaddy sd-sharing-enabled">
 then strip out anything between <>
+
+
+characters which need to be replaced: ™®©—βóø–è♬♪‘’”“…

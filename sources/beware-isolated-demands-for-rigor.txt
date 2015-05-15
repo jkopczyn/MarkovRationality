@@ -1,1 +1,239 @@
 Beware Isolated Demands For Rigor
+I.
+From 
+Identity, Personal Identity, and the Self
+ by John Perry:
+
+
+There is something about practical things that knocks us off our philosophical high horses. Perhaps Heraclitus really thought he couldn
+t step in the same river twice. Perhaps he even received tenure for that contribution to philosophy. But suppose some other ancient had claimed to have as much right as Heraclitus did to an ox Heraclitus had bought, on the grounds that since the animal had changed, it wasn
+t the same one he had bought and so was up for grabs. Heraclitus would have quickly come up with some ersatz, watered-down version of identity of practical value for dealing with property rights, oxen, lyres, vineyards, and the like. And then he might have wondered if that watered-down vulgar sense of identity might be a considerably more valuable concept than a pure and philosophical sort of identity that nothing has.
+Okay, but I can think of something worse than that.
+Imagine Heraclitus as a cattle rustler in the Old West. Every time a rancher catches him at his nefarious business, he patiently explains to them that identity doesn
+t exist, and therefore the same argument against private property as made above. Flummoxed, they
+re unable to think of a response before he rides off into the sunset.
+But then when Heraclitus 
+himself
+ needs the concept of stable personal identity for something 
+ maybe he wants to deposit his ill-gotten gains in the bank with certainty that the banker will give it back to him next time he shows up to withdraw it, or maybe he wants to bribe the sheriff to ignore his activities for the next while 
+ all of a sudden Heraclitus is willing to tolerate the watered-down vulgar sense of identity like everyone else.
+(actually, I can think of something even worse than 
+that
+, which is a TV western based on this premise, where a roving band of pre-Socratic desperadoes terrorizes Texas. The climax is no doubt when the hero strides onto Main Street, revolver in hand, saying 
+There
+s a new sheriff in town.
+ And Parmenides gruffly responds 
+No, I
+m pretty sure that
+s impossible.
+)
+At its best, philosophy is a revolutionary pursuit that dissolves our common-sense intuitions and exposes the possibility of much deeper structures behind them. One can respond by becoming a saint or madman, or by becoming a pragmatist who is willing to continue to participate in human society while also understanding its theoretical limitations. Both are respectable career paths.
+The problem is when someone chooses to apply philosophical rigor 
+selectively
+.
+Heraclitus could drown in his deeper understanding of personal identity and become a holy madman, eschewing material things and taking no care for the morrow because he does not believe there is any consistent self to experience it. Or he could engage with it from afar, becoming a wise scholar who participating in earthly affairs while drawing equanimity from the realization that there is a sense in which all his accomplishments will be impermanent.
+But if he only applies his new theory when he wants other people
+s cows, 
+then
+ we have a problem. Philosophical rigor, usually a virtue, has been debased to an 
+isolated demand for rigor
+ in cases where it benefits Heraclitus.
+A fair use of philosophical rigor would prevent both Heraclitus and his victims from owning property, and thus either collapse under its own impracticality or usher in a revolutionary new form of economic thinking. An isolated demand for philosophical rigor, applied by Heraclitus to other people but never the other way around, would merely give Heraclitus an unfair advantage in the existing system.
+II.
+A while ago I wrote a post called 
+Military Strikes Are An Extremely Cheap Way To Help Foreigners
+ which was a response to a Matt Yglesias post called 
+the opposite
+. Yglesias was opposed to 
+humanitarian
+ military intervention (think the air strikes on ISIS going on right now, justified under the cause of preventing a genocide) and his argument was that this was extremely cost-ineffective compared to just giving the money to GiveWell
+s top-rated charity 
+ at the time he was writing, malaria prevention.
+I argued he was wrong about his numbers. But I also argued he was unfairly making an isolated demand for philosophical rigor.
+Once you learn about utilitarianism and effective charity, you can become the holy madman, donating every cent you have beyond what is strictly necessary to survive and hold down a job to whatever the top rated charity is. 
+Or you can become the worldly scholar, continuing to fritter away your money on things like 
+hot water
+ and 
+food other than gruel
+ but appreciating the effective-utilitarian perspective and trying to make a few particularly important concessions to it.
+Or you can use it to steal other people
+s cows. This is what I accused Matt Yglesias of doing. Presumably there are lots of government programs Yglesias supports 
+ I suggested PBS 
+ and he would never 
+dream
+ of demanding that we defund them in the hopes of donating the money to malaria prevention. But if for political reasons he doesn
+t support air strikes, suddenly 
+that
+ plan has to justify itself according to rigorous criteria that no government program that exists could possibly pass.
+Government spending seems to be a particularly fertile case for this problem. I remember hearing some conservatives complain: sex education in public schools is an outrage, because 
+my
+ tax dollars are going to support something I believe is morally wrong.
+This is, I guess, a demand for ethical rigor. That no one should ever be forced to pay for something they don
+t like. Apply it consistently, and conservatives shouldn
+t have to pay for sex ed, liberals shouldn
+t have to pay for wars, and libertarians shouldn
+t have to pay for 
+anything
+, except maybe a $9.99 tax bill yearly to support the police and a minimal court system.
+Applied consistently, you become the holy madman demanding either total anarchy or some kind of weird system of tax earmarks which would actually be pretty fun to think about. Or the worldly scholar with a strong appreciation for libertarian ideas who needs a really strong foundational justification for spending government money on things that a lot of people oppose.
+Applied 
+inconsistently
+, you
+re just stealing cows again, coming up with a clever argument against the programs you don
+t like while defending the ones you do. 
+III.
+But this is the sort of uncouth behavior we expect of political partisans. What about 
+science
+? 
+Suppose there are scientists on both sides of a controversial issue 
+ for example, economists studying the minimum wage. One team that supports a minimum wage comes up with a pretty good study showing with p 
+<
+ 0.05 that minimum wages help the economy in some relevant way.
+The Science Czar (of course we have a science czar! We're not monsters!) notes that p 
+<
+ 0.05 is really a shoddy criterion that can prove anything and they should come back when they have p 
+<
+ 0.01. I have a 
+huge
+ amount of sympathy with the Science Czar on this one, by the way.
+Soooo the team of economists spends another five years doing another study and finds with p 
+<
+ 0.01 that the minimum wage helps the economy in some important way.
+The Science Czar notes that their study was correlational only, and that correlational studies suck. We really can't show that minimum wages are any good without a randomized controlled trial.
+Luckily, the governments of every country in the world are totally game for splitting their countries in half and instituting different economic regimes in each part for ten years, so after a decade it comes out that in the randomized controlled trial the minimum wage helped the economy with p 
+<
+ 0.01.
+The Science Czar worries about publication bias. What if there were a lot of other teams who got all the countries in the world to split in half and institute different wage policies in each of the two territories for one decade, but they weren't published because their results weren't interesting enough?
+Everything the Science Czar has said so far makes perfect sense and he is to be commended for his rigor and commitment to the job. Science is really hard and even tiny methodological mistakes 
+can in principle invalidate an entire field
+.
+But now suppose that a team shows that, in a sample of six restaurants in Podunk Ohio, there was a nonsignificant trend towards the minimum wage making things a little worse.
+And the Science Czar says: awesome! That solves that debate, minimum wage is bad, let
+s move on to investigating nominal GDP targeting.
+Now it looks like the Science Czar is just a jerk who
+s really against minimum wage. All his knowledge of the standards of scientific rigor are going not towards bettering science, but toward worsering science. He
+s not trying to create a revolutionary new scientific regime, he
+s taking pot shots.
+I see this a lot in medicine. Someone jumps on a new study showing the selenium or chromium or plutonium or whatever cures cancer. It is brought up that no, really, the medical community has investigated this sort of thing before, and it has always been found that it doesn
+t.
+Well, maybe the medical community wasn
+t investigating it the right way! Maybe the investigators were biased! Maybe they didn
+t randomize right! Maybe they used a population unusually susceptible to cancer-getting! Ninety percent of medical studies are wrong! Those twenty experiments showing a lack of effect could be total bunk!
+Yes, maybe these things happened in each of the twenty studies that disagree with you.
+Or maybe they happened in the one contrarian study you are getting so excited about.
+IV.
+The unholy combination of isolated demands for philosophical rigor and isolated demands for scientific rigor is isolated demands for mathematical-statistical-conceptual rigor, ie the sort of thing this blog has been talking about all week.
+I have already 
+been made fun of
+ for how many different things I am metaphorically comparing IQ to 
+ speed, blood pressure, 
+comas
+ 
+ so I guess it can
+t hurt to add another example I only thought of today. How about crime? It
+s usually measured by crime rate 
+ a made-up statistic that combines subfactors like arson (maybe higher when fire insurance pays out better), property damage (maybe higher during periods of ethnic tension and frequent riots) and theft (maybe higher when income inequality is worse). There is assumed to be a General Factor Of Crime (presumably caused by things like poor policing, dark alleys, broken families, et cetera) but I would be extremely surprised if anyone had ever proven Beyond A Shadow Of A Doubt that the factor analysis works out here.
+When Cosma Shalizi says 
+he
+s not sure
+ about the factor analysis in IQ, I have no quarrel with him, because Cosma Shalizi
+s response to 
+everything in the world
+ is to glare at it for not being sufficiently statistically rigorous.
+But when other people are totally happy to talk about speed and blood pressure and comas and the crime rate, and then suddenly switch to a position that we can
+t talk about IQ 
+at all
+ unless we have a perfect factor-analytical proof of its obeying certain statistical rules, then I worry they
+re just out to steal cows.
+Likewise, if someone were to just never acknowledge any sorts of groups of objects except those that could be statistically proven to fall out into absolutely separate clusters in which variance within each cluster is less than variance between clusters, well, at least they would be fun to talk to at dinner parties.
+But when people never even begin to question the idea of different cultures but make exacting demands of anyone before they can talk about different races 
+ even though 
+the two ideas are statistically isomorphic
+ 
+ then I think they
+re just out to steal cows.
+So this is another technique for avoiding 
+Eulering
+ 
+ is your interlocutor equally willing to apply their complex mathematical argument to everything else.
+I think if I hadn
+t known anything about Bayesian probability, I would have examined the McGrews
+ Bayesian argument for the Gospels by seeing if it applied equally well to 
+Mormonism
+, the 
+control group for Christianity
+.
+V.
+The old man stamped his boot in the red dirt, kicking up a tiny cloud of dust. 
+There
+s a new sheriff in town,
+ he told them.
+No, I
+m pretty sure that
+s impossible,
+ says Parmenides. 
+There
+s no such thing as change, only the appearance thereof.
+Well then,
+ says the old man, 
+I reckon you won
+t mind the false illusion of your surroundings appearing to change into a jail cell.
+ And he took out his six-shooter and held it steady.
+Hold on,
+ said Thales. 
+We don
+t want any trouble here. All is water, so all we did was steal a little bit of water from people. We can give you some water back, and everything will be even, right?
+ He gestured to a watering trough for horses on the side of the street, which was full of the stuff.
+Just so long as you don
+t mind being sprayed with some very hard water from my squirt gun,
+ the old man answered, and the six-shooter was pointed at the Milesian now.
+Ha!
+ said Zeno of Elea. 
+You don
+t scare us. In order to hit Thales, your bullet would have to get halfway to him, then half of the remaining distance, and so on. But that would require an infinite number of steps, therefore it is impossible.
+Sorry,
+ said the old man, 
+I couldn
+t hear you because it
+s logically impossible for the sound waves encoding your speech to reach my ears.
+We
+re not even the same people as the guys who stole those cattle!
+ said Heraclitus. 
+Personal identity is an illusion!
+Then you won
+t mind coming to the courthouse with me,
+ replied the old man 
+to help the judge imprison some other people who look just like you.
+The last of them, the tall one, said nothing. He just raised his revolver in a fluid motion and shot at the old man.
+The old man saw it coming and jumped out of the way. The air was briefly full of bullets. Bang! Thales went down! Bang bang! Heraclitus! Bang bang! Parmenides and Zeno. Bang bang bang! The old man was hit in the arm, but still standing. Bang bang bang bang
+It was just the old man and the tall one now. The tall one picked up his gun and fired. Nothing happened. Out of bullets.
+The old man smiled wryly, his six-shooter still in his hand.
+I know what you
+re thinking. You
+re thinking 
+ did he fire six shots, or only five? Well, you
+ve got to ask yourself a question 
+ do you feel lucky? Well, do you, punk?
+The tall one didn
+t budge. 
+Man is the measure of all things,
+ said Protagoras. 
+If I believe you fired six shots, then by my personal epistemic standards, you fired six shots.
+The old man didn
+t say anything.
+You see,
+ the Sophist continued. 
+Out of all of them, I alone was truly consistent. They all came up with clever theories, then abandoned them whenever it conflicted with their self-interest. I was more honest. I just said at the beginning that my self-interest determined truth, and so never suffered any temptation to depart from my position.
+The old man took off the bandana covering his face. 
+Man may be the measure of all things. But I
+ve taken 
+your
+ measure, Protagoras, and found it wanting.
+Socrates?!
+ the Sophist gasped.
+The only truly consistent people are the dead, Protagoras,
+ he said 
+ and squeezed the trigger.
+[If you enjoyed Part V, you may also want to read the logs of my 
+Dungeons and Discourse campaign
+.]

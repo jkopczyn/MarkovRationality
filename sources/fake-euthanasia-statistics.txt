@@ -7,7 +7,7 @@ The Netherlands
 . She writes:
 
 
- I want to focus on the doctors and the rest of us who will be harmed if [a Canadian case on euthanasia] becomes law. We don’t need to speculate. The Netherlands has already gone down this slippery slope and provided the grizzly statistics that should stop us going down the same path.
+ I want to focus on the doctors and the rest of us who will be harmed if [a Canadian case on euthanasia] becomes law. We don't need to speculate. The Netherlands has already gone down this slippery slope and provided the grizzly statistics that should stop us going down the same path.
 Now, I will be the last person to deny that there are indeed some grizzly statistics on euthanasia. For example, did you know the most recent grizzly to be euthanized in Yellowstone 
 had twenty five instances of aggressive behavior
  before finally being caught? Or that a grizzly euthanized in Montana two months ago 
@@ -18,11 +18,11 @@ was 38 years old
 Yet McTavish inexplicably ignores this vast trove of useful information and chooses to focus on highly questionable medical data instead:
 
 
-In 1990, 130,000 people died in the Netherlands: 2,300 people asked doctors to kill them; 400 asked doctors to provide them with the means to kill themselves; 8,100 died when doctors deliberately gave them an overdose of pain medication to kill them (for which 4,941 patients didn’t consent); 1,040 people died when doctors euthanized them without their knowledge or consent (72 per cent of those never having given any indication they would want their lives terminated).
-That’s breathtaking in more than one way.
-It’s not so much that nine per cent died at the hands of doctors, which is alarming in and of itself. What should raise our cries of outrage is that 4,941 people (four per cent) did not give their consent to being killed. A doctor who operates on someone without their consent can be successfully sued and made to pay huge dollars for having done so. The same should apply for killing a person without their consent.
-And it’s the 1,040 people (one per cent) who were killed without their knowledge or consent and the 749 who never wanted to die early that should get us up in arms.
-“In only 23 years, Dutch doctors have gone from being permitted to kill the terminally ill who ask for it, to killing the chronically ill who ask for it, to killing newborn babies in their cribs because they have birth defects, even though by definition they cannot ask for it. Dutch doctors also engage in involuntary euthanasia without significant legal consequence, even though such activity is officially prohibited,” writes Wesley J. Smith in Forced Exit: The Slippery Slope from Assisted Suicide to Legalized Murder.
+In 1990, 130,000 people died in the Netherlands: 2,300 people asked doctors to kill them; 400 asked doctors to provide them with the means to kill themselves; 8,100 died when doctors deliberately gave them an overdose of pain medication to kill them (for which 4,941 patients didn't consent); 1,040 people died when doctors euthanized them without their knowledge or consent (72 per cent of those never having given any indication they would want their lives terminated).
+That's breathtaking in more than one way.
+It's not so much that nine per cent died at the hands of doctors, which is alarming in and of itself. What should raise our cries of outrage is that 4,941 people (four per cent) did not give their consent to being killed. A doctor who operates on someone without their consent can be successfully sued and made to pay huge dollars for having done so. The same should apply for killing a person without their consent.
+And it's the 1,040 people (one per cent) who were killed without their knowledge or consent and the 749 who never wanted to die early that should get us up in arms.
+"In only 23 years, Dutch doctors have gone from being permitted to kill the terminally ill who ask for it, to killing the chronically ill who ask for it, to killing newborn babies in their cribs because they have birth defects, even though by definition they cannot ask for it. Dutch doctors also engage in involuntary euthanasia without significant legal consequence, even though such activity is officially prohibited," writes Wesley J. Smith in Forced Exit: The Slippery Slope from Assisted Suicide to Legalized Murder.
 II.
 So here
 s where it gets confusing. The article doesn
@@ -184,10 +184,10 @@ The review begins by stating the requirements for euthanasia under the Netherlan
  law:
 
 
-1. The patient’s request is voluntary and well-considered;
+1. The patient's request is voluntary and well-considered;
 
 
-2. The patient’s suffering is unbearable and hopeless;
+2. The patient's suffering is unbearable and hopeless;
 
 
 3. The patient is informed about his situation and prospects;
@@ -201,7 +201,7 @@ The review begins by stating the requirements for euthanasia under the Netherlan
 
 6. The termination of life should be performed with due medical care and attention.
 It then evaluated the 5,600 cases of legal euthanasia in the Netherlands to determine how many of them had failed one or more of those criteria. They found that 
-In the period 2003–2005, the review committees gave the verdict of non-compliance in 15 cases on a total of 5,600 reported cases. The main reason for the verdict of non-compliance was a failure to fulfill the requirement of consultation of a second independent physician.
+In the period 2003-2005, the review committees gave the verdict of non-compliance in 15 cases on a total of 5,600 reported cases. The main reason for the verdict of non-compliance was a failure to fulfill the requirement of consultation of a second independent physician.
 99.8% of Dutch euthanizations were performed in cases where
 
 
@@ -230,7 +230,7 @@ Table 1 further shows that the frequency of ending of life without an explicit p
 The number of patients killed without consent was cut in half after euthanasia was legalized, and these deaths continue to be overwhelmingly done with reasonable justification.
 
 
-Forgoing of potentially life prolonging treatments (either withholding or withdrawing) and intensified alleviation of symptoms occurred much more often than active ending of life. In all of the studied years, the frequency of forgoing of life-prolonging treatments was rather stable, between 16–20% of all deaths. The percentage of the use of intensified alleviation of symptoms increased from 19% of all deaths in 1990 up to 25% in 2005.
+Forgoing of potentially life prolonging treatments (either withholding or withdrawing) and intensified alleviation of symptoms occurred much more often than active ending of life. In all of the studied years, the frequency of forgoing of life-prolonging treatments was rather stable, between 16-20% of all deaths. The percentage of the use of intensified alleviation of symptoms increased from 19% of all deaths in 1990 up to 25% in 2005.
 My prediction that euthanasia funges against use of potentially deadly symptom-relieving drugs seems to be disconfirmed, as that has increased over the period euthanasia has been more legal.
 The prediction that euthanasia would be used as a way to get rid of the elderly was also disconfirmed. The practice was much less common among the elderly than among younger people; in 2005, 3.5 percent of deaths below age 65 were euthanasia, as opposed to 0.8% of deaths above age 80. The report attributes the discrepancy to euthanasia being a more common practice in cancer patients (who tend to be younger than most terminally ill people), plus of course the overwhelmingly higher number of other causes of death in the elderly.
 Okay. Here
@@ -277,5 +277,5 @@ All responsible research on euthanasia in the Netherlands has found it to be app
 This is why I felt comfortable saying in 
 my last post
  that 
-there’s loads of good data
+there's loads of good data
 we can use to estimate how nonconsensual and slippery-slopey real world euthanasia is, and the answer is statistically indistinguishable from zero.

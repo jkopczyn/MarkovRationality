@@ -1,1 +1,411 @@
 Marijuana: Much More Than You Wanted To Know
+This month I work on my hospital
+s Substance Abuse Team, which means we treat people who have been hospitalized for alcohol or drug-related problems and then gingerly suggest that maybe they should use drugs a little less.
+The two doctors leading the team are both very experienced and have kind of seen it all, so it
+s interesting to get a perspective on drug issues from people on the front line. In particular, one of my attendings is an Obama-loving long-haired hippie who nevertheless vehemently opposes medical marijuana or any relaxation on marijuana
+s status at all. He says that 
+just because I
+m a Democrat doesn
+t mean I have to support stupid policies I know are wrong
+ and he
+s able to back up his opinion with an impressive variety of studies.
+To be honest, I had kind of forgotten that the Universe was allowed to contain negative consequences for legalizing drugs. What with all the mental energy it took protesting the the Drug War and getting outraged at police brutality and celebrating Colorado
+s recently permitting recreational cannabis use and so on, it had completely slipped my mind that the legalization of marijuana might have negative consequences and that I couldn
+t reject it out of hand until I had done some research.
+So I
+ve been doing the research. Not to try to convince my attending of anything 
+ as the old saying goes, do not meddle in the affairs of attendings, 
+because you are crunchy and taste good with ketchup
+ 
+ but just to figure out where exactly things stand.
+I. Would Relaxation Of Penalties On Marijuana Increase Marijuana Use?
+Starting in the 1970s, several states decriminalized possession of marijuana 
+ that is, possession could not be penalized by jail time. It could still be penalized by fines and other smaller penalties, and manufacture and sale could still be punished by jail time.
+Starting in the 1990s, several states legalized medical marijuana. People with medical marijuana cards, which in many cases were laughably easy to get with or without good evidence of disease, were allowed to grow and use marijuana, despite concerns that some of this would end up on the illegal market.
+Starting last week, Colorado legalized recreational use of marijuana, as well as cultivation and sale (subject to heavy regulations). Washington will follow later this year, and other states will be placing measures on their ballots to do the same.
+One should be able to evaluate to what degree marijuana use rose after these policy changes, and indeed, many people have tried 
+ with greater or lesser levels of statistical sophistication.
+The 
+worst
+ arguments in favor of this proposition are those like 
+this CADCA paper
+, which note that states with more liberal marijuana laws have higher rates of marijuana use among teenagers than states that do not. The proper counterspell to such nonsense is 
+Reverse Causal Arrows
+ 
+ could it not be that states with more marijuana users are more likely to pass proposals liberalizing marijuana laws? Yes it could. Even more likely, some third variable 
+ let
+s call it 
+hippie attitudes
+ 
+ could be behind both high rates of marijuana use and support for liberal marijuana regimes. The states involved are places like Colorado, California, Washington, and Oregon. I think that speaks for itself. In case it doesn
+t, someone went through the statistics and found that these states had the highest rates of marijuana use among teens since 
+well
+ before they relaxed drug-related punishments. Argument successfully debunked.
+A slightly more sophisticated version 
+ used by the DEA 
+here
+ 
+  takes the teenage marijuana use in a state one year before legalization of medical marijuana and compares it to the teenage marijuana use in a state one (or several years) after such legalization. They often find that it has increased, and blame the increase on the new laws. 
+For example
+, 28% of Californians used marijuana before it was decriminalized in the 70s, compared to 35% a few years after.  This falls victim to a different confounder 
+ marijuana use has undergone some very large swings nationwide, so the rate of increase in medical marijuana states may be the same as the rate anywhere else. Indeed, this is what was going on in California 
+ its marijuana use actually rose slightly 
+less
+ than the national average.
+What we want is a study that compares the average marijuana use in a set of states before liberalization to the average marijuana use in the country as a whole, and then does the same after liberalization to see if the ratio has increased. There are several studies that purport to try this, of which by far the best is 
+Johnston, O
+Malley 
+ Bachman 1981
+, which monitored the effect of the decriminalization campaigns of the 70s. They survey thousand of high school seniors on marijuana use in seven states that decriminalize marijuana both before and for five years after the decriminalization, and find absolutely no sign of increased marijuana use (in fact, there is a negative trend). Several other studies (eg 
+Thies 
+ Register 1993
+) confirm this finding.
+There is only a hint of some different results. 
+Saffer and Chaloukpa 1999
+ and 
+Chaloupka, Grossman 
+ Tauras 1999
+ try to use complicated econometric simulations to estimate the way marijuana demand will respond to different variables. They simulate (as opposed to detecting in real evidence) that marijuana decriminalization should raise past-year use by about 5 
+ 8%, but have no effect on more frequent use (ie a few more people try it but do not become regular users). More impressively, 
+Model 1993
+ (a source of 
+some exasperation
+ for me earlier) finds that after decriminalization, marijuana-related emergency room visits went up (trying to interpret their tables, I think they went up by a whopping 90%, but I
+m not sure of this). This is sufficiently different from every other study that I don
+t give it much weight, although we
+ll return to it later.
+Overall I think the evidence is pretty strong that decriminalization probably led to no increase in marijuana use among teens, and may at most have led to a small single-digit increase. 
+Proponents of stricter marijuana penalties say the experiment isn
+t fair. In practice, decriminalization does not affect the average user very much 
+ even in states without decriminalization, marijuana possession very rarely leads to jail time. The only hard number I have is from Australia, where in 
+non-decriminalized
+ Australian states 
+only 0.3% of marijuana arrests lead to jail time
+, but a quick back-of-the-envelope calculation suggests US numbers are very similar. And even in supposedly decriminalized states, it
+s not hard for a cop who wants to get a pot user in jail to find a way (possession of even small amounts can be 
+possession with intent to sell
+ if someone doesn
+t like you). So the overall real difference between decriminalized and not decriminalized is small and it
+s not surprising the results are small as well. I mostly agree with them; decriminalization is fine as far as it goes, but it
+s a bigger psychological step than an actual one.
+The next major milestone in cannabis history was the legalization of medical marijuana. 
+Anderson, Hansen 
+ Rees (2012)
+ did the same kind of study we have seen above, and despite trying multiple different measures of youth marijuana use found pretty much no evidence that medical marijuana legalization caused it to increase. 
+Other studies
+ find pretty much the same.
+This could potentially suffer from the same problems as decriminalization studies 
+ the laws don
+t always change the facts on the ground. Indeed, for about ten years after medical marijuana legalization, the federal government kept on prosecuting marijuana users even when their use accorded with state laws, and many states had so few dispensaries that in reality not a whole lot of medical marijuana was being given out. I haven
+t found any great studies that purport to overcome these problems.
+When we examined decriminalization, we found that the studies based on surveys of teens looked pretty good, but that the one study that examined outcomes 
+ marijuana-related ER visits 
+ was a lot less encouraging. We find the same pattern here, and the rain on our parade is 
+Chu 2013
+, who finds that medical marijuana laws increased marijuana-related arrests by 15-20% and marijuana-related drug rehab admissions by 10-15%.
+So what
+s going on here? I have two theories. First, maybe medical marijuana use (and decriminalization) increase use among adults only. This could be because the system is working 
+ giving adults access to medical marijuana while keeping it out of the hands of children 
+ or because kids are dumb and don
+t understand consequences but adults are more responsive to incentives and punishments. Second, we know that medical marijuana has 
+twice as much THC
+ as street marijuana. Maybe everyone keeps using the same amount of marijuana, but when medical marijuana inevitably gets diverted to the street, addicts can
+t handle it and end up behaving much worse than they expected.
+Or the studies are wrong. Studies being wrong is always a pretty good bet.
+I can
+t close this section without mentioning the Colorado expulsion controversy. Nearly everyone who teaches in Colorado says 
+there has been an explosion of marijuana-related problems
+ since medical marijuana was legalized. Meanwhile, the actual surveys of Colorado high school students say that 
+marijuana use, if anything, is going down
+. A Colorado drug warrior has some 
+strong objections
+ to the survey results, but they center around not really being able to prove that there is a real downward trend (which is an entirely correct complaint) without denying that in fact they show no evidence at all of going 
+up
+.
+The consensus on medical marijuana seems to be that it does not increase teen marijuana use either, although there is some murky and suggestive evidence that it might increase illicit or dangerous marijuana use among adults.
+There is less information on the effects of full legalization of marijuana, which has never been tried before in the United States. To make even wild guesses we will have to look at a few foreign countries plus some econometric simulations.
+No one will be surprised to hear that the first foreign country involved is the Netherlands, which was famously permissive of cannabis up until a crackdown a few years ago. Despite popular belief they never fully legalized the drug and they were still pretty harsh on production and manufacture; distribution, on the other hand, could occur semi-openly in coffee shops. This is another case where we have to be careful to distinguish legal regimes from actual effects, but during the period when there were actually a lot of pot-serving coffee shops, the Netherlands did experience 
+an otherwise-inexplicable 35% rise in marijuana consumption
+ relative to the rest of Europe. This is true even among teenagers, and covers both heavy use as well as occasional experimentation. Some scientists studying the Netherlands
+ example expect Colorado to see a similar rise; others think it will be even larger because the legalization is complete rather than partial.
+The second foreign country involved is Portugal, which was maybe more of a decriminalization than a legalization case but which is forever linked with the idea of lax drug regimes in the minds of most Americans. They decriminalized all drugs (including heroin and cocaine) in 2001, choosing to replace punishment with increased treatment opportunities, and 
+as we all have been told
+, no one in Portugal ever used drugs ever again, or even remembers that drugs exist. Except it turns out it
+s more complicated; for example, the percent of Portuguese who admit to lifetime use of drugs 
+has doubled
+ since the law took effect. Two very patient scientists 
+have sifted through all the conflicting claims
+ and found that in reality, the number of people who briefly experiment with drugs has gone way up, but the number of addicts hasn
+t, nor has the number of bad outcomes like overdose-related deaths. There are many more people receiving drug treatment, but that might just be because Portugal upped its drug treatment game in a separate law at the same time they decriminalized drugs. Overall they seem to have been a modest success 
+ neither really raising nor decreasing the number of addicts 
+ but they seem more related to decriminalization (which we
+ve already determined doesn
+t have much effect) than to legalization per se.
+Returning to America, what if you just 
+ask
+ people whether they would use more marijuana if it
+s legal? Coloradans were asked if they plan to smoke marijuana once it becomes legal; comparing survey results to current usage numbers suggests 
+40% more users
+ above the age of 18; it is unclear what the effect will be on younger teens and children.
+Finally, we let the economists have their say. They crunch all the data and predict 
+an increase of 50 
+ 100%
+ based solely on the likely price drop (even with taxes factored in). And if there
+s one group we can trust to make infallible predictions about the future, it
+s economists.
+Overall I find the Dutch evidence most convincing, and predict a 25 
+ 50% increase in adult marijuana use with legalization. I would expect a lower increase 
+ 15 
+ 30% 
+ among youth, but the data are also perfectly consistent with no increase at all.
+Conclusion for this section: that decriminalization and legalization of medical marijuana do not increase youth marijuana use rates, although there is some shaky and indirect evidence they do increase adult use and bad behavior. There is no good data yet on full legalization, but there
+s good reason to think it would substantially increase adult use and it might also increase youth use somewhat.
+II. Is Marijuana Bad For You?
+About 9% of marijuana users
+ eventually become addicted to the drug, exposing them to various potential side effects.
+Marijuana smoke contains a lot of the same chemicals in tobacco smoke and so it would not be at all surprising if it had some of the same ill effects, like cardiovascular disease and lung cancer. But when people look for these effects, 
+they can
+t find any increase in mortality among marijuana smokers
+. I predict that larger studies will one day pick something up, but for now let
+s take this at face value.
+Much more concerning are the attempts to link marijuana to cognitive and psychiatric side effects. 
+Meier et al (2012)
+ analyzed a study of a thousand people in New Zealand and found that heavy marijuana use was linked to an IQ decline of 8 points. 
+Rogeberg 2012
+ developed an alternative explanation 
+ poor people saw their IQs drop in their 20s more than rich people because their IQs had been artificially inflated by schooling; what Meier et al had thought to be an effect of cannabis was really an effect of poor people having an apparent IQ drop and using cannabis more often. Meier et al 
+pointed out
+ that actually, poor people didn
+t use cannabis any more often than anyone else and effects remained when controlled for class. Other studies, like 
+Fried et al (2002)
+ find the same effect, and there is a plausible biological mechanism (cannabinoids something something neurotransmitters something brain maturation). As far as I can tell the finding still seems legit, and marijuana use does decrease IQ. It is still unclear whether this only applies in teenagers (who are undergoing a 
+sensitive period of brain development
+) or full stop. 
+More serious still is the link with psychosis. A number of studies have found that marijuana use is heavily correlated with development of schizophrenia and related psychotic disorders later in life. Some of them find relative risks as high as 2 
+ heavy marijuana use doubles your chance of getting schizophrenia, which is already a moderately high 1%. But of course correlation is not causation, and many people have come up with alternative theories. For example, maybe people who are already kind of psychotic use marijuana to self-medicate, or just make poor life choices like starting drugs. Maybe people of low socioeconomic status who come from broken homes are more likely to both use marijuana and get schizophrenia. Maybe some gene both makes marijuana really pleasant and increases schizophrenia risk.
+I know of three good studies attempting to tease out causation. 
+Arseneault et al (2004)
+ checks to see which came first 
+ the marijuana use or the psychotic symptoms 
+ and finds it was the marijuana use, thus supporting an increase in risk from the drug. 
+Griffith-Lendering et al (2012)
+ try the same, and find 
+bidirectional
+ causation 
+ previous marijuana use seems to predict future psychosis, but previous psychosis seems to predict future marijuana use. A 
+very new study from last month
+ boxes clever and checks whether your marijuana use can predict schizophrenia in 
+your relatives
+, and find that it does 
+ presumably suggesting that genetic tendencies towards schizophrenia cause marijuana use and not vice versa (although Ozy points out to meet that the relatives of marijuana users are more likely to use marijuana themselves; the plot thickens). When 
+a meta-analysis
+ tries to control for all of these factors, they get a relative risk of 1.4 (they call it an odds ratio, but from their discussion section I think they mean relative risk).
+Is this true, or just the confounders they failed to pick up? One argument for the latter is that marijuana use has increased very much over the past 50 years. If marijuana use caused schizophrenia, we would expect to see much more schizophrenia, but in fact as far as anyone can tell (which is not very far) 
+schizophrenia incidence is decreasing
+. The decrease might be due (maybe! if it even exists at all!) to obstetric advances which prevent fetal brain damage which could later lead to the disease. The effect of this variable is insufficiently known to pretend we can tease out some supposed contrary effect of increased marijuana use. Also, some people say that 
+schizophrenia is increasing in young people
+, so who knows?
+The 
+exact
+ nature of the marijuana-psychosis link is still very controversial. Some people say that marijuana causes psychosis. Other people say it 
+activates latent psychosis
+, a term without a very good meaning but which might mean that it pushes people on the borderline of psychosis 
+ eg those with a strong family history but who might otherwise have escaped 
+ over the edge. Still others say all it does is get people who would have developed psychosis eventually to develop it a few years earlier. You can read a comparison of all the different hypotheses 
+here
+.
+I
+ve saved the most annoying for last: is marijuana a 
+gateway drug
+? Would legalizing it make it more or less of a 
+gateway drug
+? This claim seems tailor-made to torture statisticians. We know that marijuana users are 
+definitely
+ more likely to use other drugs later 
+ for example, 
+marijuana users are 85x more likely than non-marijuana users to use cocaine
+. but that could be either because marijuana affects them in some way (implying that legalizing marijuana would increase other drug use), because 
+they have factors
+ like genetics or stressful life situation that makes them more likely to use all drugs (implying that legalizing marijuana would not affect other drug use), or because using illegal marijuana without ill effect connects them to the illegal drug market and convinces them illegal drugs are okay (implying that legalizing marijuana would decrease other drug use). RAND comes very close to investigating this properly by saying that 
+when the Dutch pseudo-legalized marijuana, use of harder drugs stayed stable or went down
+, but all their study actually shows is that the ratio of marijuana users : hard drug users went down. This is to be expected when you make marijuana much easier to get, but it
+s still consistent with the absolute number of hard drug users going way up. The best that can be said is that there is no direct causal evidence for the gateway theory and 
+some good alternative explanations
+ for the effect. Let us accept their word for it and never speak of this matter again.
+Conclusion for this section: Marijuana does not have a detectable effect on mortality and there is surprisingly scarce evidence of tobacco-like side effects. It probably does decrease IQ if used early and often, possibly by as many as 8 IQ points. It may increase risk of psychosis by as much as 40%, but it
+s not clear who is at risk or whether the risk is even real. The gateway drug hypothesis is too complicated to evaluate effectively but there is no clear casual evidence in its support.
+III. What Are The Costs Of The Drug War?
+There are not really that many people in jail for using marijuana.
+I learned this from 
+Who
+s Really In Prison For Marijuana?
+, a publication of the National Office Of Drug Control Policy, which was clearly written by someone with the same ability to take personal offense at bad statistics that inspires 
+my
+ 
+posts
+ 
+about
+ 
+Facebook
+. The whole thing seethes with indignation and makes me want to hug the drug czar and tell him everything will be okay.
+Only 1.6% of state prisoners are serving time for marijuana, only 0.7% are serving for marijuana possession, and only 0.3% are first time offenders. Some of those are 
+possession
+ in the sense of 
+possessing a warehouse full of marijuana bales
+, and others are people who committed much more dangerous crimes but were nailed for marijuana, in the same sense that Al Capone was nailed for tax evasion. The percent of normal law-abiding people who just had a gram or two of marijuana and were thrown in jail is a rounding error, and the stories of such you read in the news are extremely dishonest (read the document for examples).
+Federal numbers are even lower; in the entire federal prison system, they could only find 63 people imprisoned with marijuana possession as the sole crime, and those people were possessing a median of one hundred fifteen 
+pounds
+ of marijuana (enough to make over 100,000 joints).
+In total, federal + state prison and counting all the kingpins, dealers, manufacturers, et cetera, there are probably about 16,000 people in prison solely for marijuana-related offenses, serving average actual sentence lengths of three year. But it
+s anybody
+s guess whether those people would be free today if marijuana were legal, or whether their drug cartels would just switch to something else. 
+Looking at the other side
+s statistics, I don
+t see much difference. 
+NORML claims that
+ there are 40,000 people in prison for marijuana use, but they admit that half of those people were arrested for using harder drugs and marijuana was a tack-on charge, so they seem to agree with the Feds about around 20,000 pure marijuana prisoners. 
+SAM agrees
+ that only 0.5% of the prison population is in there for marijuana possession alone. I see no reason to doubt any of these numbers.
+A much more serious problem is marijuana-related arrests, of which there are 700,000 a year. 
+90% of them are for simple possession
+, and the vast majority do not end in prison terms; they do however result in criminal records, community service, a couple days of jail time until a judge is available to hear the case, heavy fines, high cost of legal representation, and moderate costs to the state for funding the whole thing. Fines can be up to $1500, and legal representation 
+can cost up to $5000
+ (though I am suspicious of this paper and think it may be exaggerating for effect). These costs are often borne by poor people who will have to give up all their savings for years to pay them back.
+Costs paid by the government, which cover everything from police officers to trials to prison time, are estimated at about $2 billion by 
+multiple
+ 
+sources
+. This is only 3% of the total law enforcement budget, so legalizing marijuana wouldn
+t create some kind of sudden revolution in policing, but as the saying goes, a billion here, a billion there, and eventually it adds up to real money. And a Harvard economist claims that the total monetary benefits from legalization, including potential tax revenues, 
+could reach $14 billion
+.
+Some people worry that legalizing marijuana would cause an increase in car accidents by 
+stoned drivers
+, who, like drunk drivers, have impaired reflexes and poor judgment, and indeed there is 
+a small but real problem of marijuana-induced car accidents
+. But 
+Chaloukpa and Laixuthai (1994)
+ crunch the numbers and find that decreased price/increased availability of marijuana is actually associated with 
+decreased
+ car accidents, probably because marijuana is substituting for alcohol in the 
+have impairing substances and then go driving
+ population. This finding 
+ that marijuana and alcohol substitute for each other 
+ 
+has been spotted again and again
+. 
+Anderson 
+ Rees (2013)
+ find that states that legalize medical marijuana see a 5% drop in beer sales. There are however a few dissenting opinions: 
+Cameron 
+ Williams (2001)
+, in complex econometric simulations that may or may not resemble the real world in any respect, find that increasing the price of alcohol increases marijuana use, but increasing the price of marijuana does not affect alcohol use, and 
+the same researcher
+ finds that banning alcohol on a college campus also decreases marijuana use. Also, possibly marijuana use increases smoking? This whole area is confusing, but I am most sympathetic to to the Andersen and Rees statistics which say that medical marijuana states are associated with 13% fewer traffic fatalities.
+Overall conclusion for this section: full legalization of marijuana would free about 20,000 people from jail (although most of them would not be exactly fine upstanding citizens), prevent 700,000 arrests not resulting in jail time per year, save between 2 and 14 billion dollars, and possibly reduce traffic fatalities a few percent (or, for all we know, increase them).
+IV. An Irresponsible Utilitarian Analysis
+Decriminalization and legalization of medical marijuana seem, if we are to trust the statistics in (I) saying they do not increase use among youth, like almost unalloyed good things. Although there are some nagging hints of doubt, they are not especially quantifiable and therefore not amenable to analysis. Without a very strong predisposition to try as hard as possible to fit the evidence into a pessimistic picture, I don
+t think there
+s a great argument against either of these two propositions. Let
+s concentrate on legalization, which would mean something like 
+People can grow and sell as much marijuana as they want and it
+s totally legal for people over 21, with the same level of penalties as today for people under 21
+.
+Section (I) concludes that legalization could lead to an increase in adult marijuana use up to 50%. There
+s not a lot of evidence on what it could do to teen marijuana use, but since it seems teen marijuana use is less responsive to legal changes, I made up a number and said 20%. Lest you think I am being unfair, note that this is well below the percent increase predicted by the survey that asked 18 year olds if they would start using marijuana if it were legal.
+Right now about 1.5 million teenagers 
+use marijuana 
+heavily
+. Most of the detrimental effects of marijuana seem concentrated in teens and people in their early twenties; I
+m going to artificially round that up to 2 million to catch the early 20 year olds. If this 2 million number increased 20%, 400,000 extra teens would start heavily using marijuana.
+Those 400,000 teens would lose 8 IQ points each. IQ increases your yearly earnings by about $500 per point, so these people would lose about $4,000 a year. Making very strong assumptions about salary being a measure of value to society, society would lose about $1.6 billion a year directly, plus various intangibles from potential artists and scientists losing the ability to create masterpieces and inventions, plus various 
+really
+ intangibles like a slightly dumber electorate.
+We need to use a different number to calculate psychosis risk, since the studies were done on 
+people who had used marijuana at least once
+. The appropriate number turns out to be 8 million teenagers; of those, 1%, or 80,000, would naturally develop schizophrenia. If the 1.4 relative risk number is correct, marijuana use will increase that to 112,000, for a total increase of 32,000 people. Schizophrenia pretty much always presents in the 15 
+ 25 age window, so we
+ll say we get 3,200 extra cases per year.
+There were
+ 35000 road traffic accident fatalities in the US last year. If greater availability of marijuana decreases those fatalities by 13% (note that I am using the number from medical marijuana legalization and not for marijuana legalization per se, solely because it is a number I actually have), that will cause 4500 fewer road traffic deaths per year. There may be additional positive effects of alcohol substitution from, for example, less liver disease. But there may also be additional negative effects from increasing use of tobacco, so let
+s just pretend those cancel out.
+So here is my guess at the yearly results of marijuana legalization:
+ 20,000 fewer prisoners (but they might switch to other criminal enterprises)
+
+
+ 700,000 fewer arrests
+
+
+ $2 billion less in law enforcement costs
+
+
+ Some amount of positive gain (let
+s say $5 billion) in taxes
+
+
+ 4500 fewer road traffic deaths (if you believe the preliminary alcohol substitution numbers)
+ 400,000 people with lower IQ
+
+
+ $2 billion in social costs from above dumber people
+
+
+ 3,200 more cases of schizophrenia a year
+We
+ll proceed to calculate the nonmonetary burden of each of these in QALYs, then add the monetary burden in dollars, then convert.
+The 
+searchable public database of utility weights for all diseases
+ (God I love the 21st century) tells me that schizophrenia has a QALY weight of 0.73. It generally starts around 20 and lasts a lifetime, so each case of schizophrenia costs us 0.27 * 50 or 13.5 QALYs. Therefore, the total burden of the 3,200 added schizophrenia cases is 43 kiloQALYs.
+There
+s no good way to calculate the QALY weight of having 4-8 fewer IQ points, and unfortunately this is going to end up being among the most important numbers in our results. If we say the lifetime cost of this problem is 3 QALYs, and divide the number by eight to represent eight years worth of teenagers in our sample population, we end up with 400,000/8 * 3 = 150 kiloQALYs.
+My own survey
+ tells me that being in prison has a QALY weight around 0.5. Marijuana sentences generally last an average of three years, which suggests that 1/3 of these marijuana prisoners are arrested every year, so the total burden of the ~6000ish marijuana imprisonments each year is 3 * ~6000 * 0.5 = 10 kiloQALYs.
+Assume the average road traffic death occurs at age 30, costing 40 years of potential future life. The total cost of 4500 road traffic deaths is 40 * 4500 = 180 kiloQALYs.
+The arrests are going to require even more fudging than normal. Average jail time for a marijuana arrest (when awaiting trial) is 
+one to five days
+ 
+ let
+s round that off to two and then use our prison number to say that the jail from each arrest is 2/365 * 0.5 = three-thousandths of a QALY. I am going to arbitrarily round this up to one one-hundredth of a QALY to account for emotional trauma and the burden of fines, then even more arbitrarily round this up to a tenth of a QALY to account for possibility of getting a criminal record. This sets the burden of 700,000 arrests at 70 kiloQALYs.
+Now our accounting is:
+Costs from legalization compared to current system: 200 kQALYs and $2 billion
+
+
+Benefits from legalization compared to current system: 260 kQALYs and $7 billion
+Although it
+s not going to be necessary, we can interconvert QALYs and dollars at the going health-care rate of about $100,000/QALY ($100 million/kQALY):
+Costs from legalization compared to current system: 220 kQALYs
+
+
+Benefits from legalization compared to current system: 330 kQALYs
+And get:
+Net benefits from legalization: +110 kQALYs
+Except that this is extremely speculative and irresponsible. By far the largest component of the benefits of legalization turned out to be the effect on road traffic accidents, which is based on only two studies and which may on further research turn out to be a cost. And by far the largest component of the costs of legalization turned out to be the effect on IQ, and we had to totally-wild-guess the QALY cost of an IQ point loss. The wiggle room in my ignorance and assumptions is more than large enough to cover the small gap between the two policies in the results.
+So my actual conclusion is:
+There is not a sufficiently obvious order-of-magnitude difference between the costs and benefits of marijuana legalization for a evidence-based utilitarian analysis of costs and benefits to inform the debate. You may return to your regularly scheduled wild speculation and shrill accusations.
+But I wouldn
+t say this exercise is useless. For example, it suggests that whether marijuana legalization is positive or negative on net depends almost entirely on small changes in the road traffic accident rate. This is something I
+ve never heard anyone else mention, but which in retrospect should be obvious; the few debatable health effects and the couple of people given short jail sentences absolutely can
+t compare to the potential for thousands more (or fewer) traffic accidents which leave people permanently dead.
+So my actual actual conclusion is:
+We should probably stop caring about health effects of marijuana and about imprisonment for marijuana-related offenses, and concentrate all of our research and political energy on how marijuana affects driving.
+This cements 
+my previous intuitions on irresponsible use of statistics
+ 
+ it
+s unlikely to unilaterally solve the problem, but it can be very good at pointing out where you
+re being irrational and suggesting new ways of looking at a question.
+EDIT
+: People in the comments have pointed out several important factors left out, including:
+
+
+ Some people enjoy smoking marijuana
+
+
+ The opening of a permanent criminal record may mean arrests are worse than I estimate. I can
+t find good statistics on how often this happens, but do note that decriminalization prevents a record from being opened.
+
+
+ Loss of 8 IQ points may have wider social effects than I estimate, since IQ affects for example crime rate.
+
+
+ Legalizing marijuana might remove a source of funding for organized crime
