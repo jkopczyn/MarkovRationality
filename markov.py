@@ -1,6 +1,6 @@
 import json
 
-files = [ "Rationality_From_AI_to_Zombies",
+files = [ 
 "who-by-very-slow-decay",
 "in-favor-of-niceness-community-and-civilization",
 "meditations-on-moloch", 
@@ -52,7 +52,7 @@ def readMarkov():
 
 def writeMarkov(d):
   with open(markovFile, "w") as markov:
-    markov.write(json.dumps(d, separators=(',',':')))
+    markov.write(json.dumps(d))
 
 def addSuccessor(dictionary, prev, succ):
   if not isinstance(dictionary.get(prev), dict):
@@ -71,7 +71,7 @@ def createFirstLayer(dictionary):
       for line in page.readlines():
         prevWord = ""
         for word in line.split():
-          addSuccessor(dictionary, prevWord, word)
+          addSuccessor(dictionary, "", word)
           prevWord = word
   return dictionary
 
