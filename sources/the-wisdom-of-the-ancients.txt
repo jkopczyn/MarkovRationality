@@ -1,1 +1,163 @@
 The Wisdom of the Ancients
+Were The Victorians Cleverer Than Us?
+, asks a new study by Woodley et al that has gotten name-dropped in places like 
+The Daily Mail
+ and 
+The Huffington Post
+.
+Meanwhile, 
+Betteridge
+s Law of Headlines
+ continues to warn us that 
+Any headline which ends in a question mark can be answered by the word no.
+On first glance, the paper looks solid. It investigates simple reaction time, a measure which is known to be correlated with 
+g
+, the mysterious general intelligence which is supposedly measured (to some degree) by IQ tests. People have been experimenting with simple reaction time for over a century now, so the paper asked the relatively simple question of whether it has changed over that century. They found that it had: it had gone up, signifying a decrease in general intelligence. Their explanation was dysgenics.
+People have known for a long time that high-IQ people have fewer children than low-IQ people, so it might make sense genetically to believe that each generation becomes a little dumber. This pattern has stubbornly refused to appear: instead, every generation has had significantly higher IQ than the one before, an observation called 
+the Flynn Effect
+. This has been attributed to various things, including better nutrition, child-rearing, and education.
+What the authors of this paper do 
+ and it
+s pretty clever 
+ is say that the Flynn Effect is an environmental increase in IQ which has hidden a simultaneous genetic decline in IQ. They try to prove it by saying environmental and genetic factors affect IQ in different ways, and that genetic factors are more likely to affect certain features like reaction time 
+ a pattern which is called a 
+Jensen Effect
+ and which is on relatively solid ground. Because they find reaction time is declining, probably people are becoming genetically stupider and the only reason we can keep having a civilization at all is because our environment is getting better 
+ which is too bad, since 
+our environment may have stopped doing that
+.
+All the theory here 
+sort of
+ checks out, except for the part where they say IQ changed 15 points in a hundred years, which is just a 
+little
+ bit faster than any responsible person expects evolution to progress. People critique 
+the idea
+ that Ashkenazi Jews could have shifted fifteen points in 
+nine hundred years
+ on the grounds that it
+s too fast. So let
+s take a closer look at their data.
+Only two of their sixteen studies come from the Victorian Era: Galton 1889 (n = 3410) and Thompson 1895 (n = 49).
+Francis Galton, a brilliant Victorian scientist who was a half-cousin of Darwin, is the source of 98.5% of our Victorian reaction time data 
+ not to mention the concept of reaction time itself, several statistical tools including correlation and standard deviation, the use of the survey in data collecting, the term 
+eugenics
+, the entire science of meteorology, hearing tests, the first study on the power of prayer (he prayed over random fields to see if the crops there grew higher; they didn
+t), fingerprinting, the scientific investigation of synaesthesia, and a horrible warning about how not to do 
+facial hair
+.
+Galton
+s Data A Century Later
+, published in 1985, tells us a little about how he gained his ground-breaking reaction time statistics. He set up a laboratory in the Science Galleries of the South Kensington Museum. There he charged visitors to the museum three pence ($25 in modern currency after adjusting for inflation) to be measured by his instruments, a process he advertised as 
+for the use of those who desire to be accurately measured in many ways, either to obtain timely warning of remediable faults in development, or to learn their powers.
+ Over the course of nine years, he attracted about nine thousand curious individuals, three thousand of whose data managed to make it into the current meta-analysis.
+His colleague in Victorian reaction-time measurement was 
+Helen Thompson Woolley
+, an American psychologist who published a 1903 dissertation titled 
+The Mental Traits of Sex: An Experimental Investigation of the Normal Mind in Men and Women
+ (it was, apparently a simpler time). With an optimism bordering on the incredible, Wikipedia notes that 
+Before Woolley, research on sex differences was heavily influenced by conjecture and bias.
+Woolley writes of her sampling technique:
+
+
+In making a series of tests for comparative purposes, the first prerequisite is to obtain material that is really comparable. It has been shown that the simple sensory processes vary with age and with social condition. No one would question that this statement is true for the intellectual processes also. In order to make a trustworthy investigation of the variations due to sex alone, therefore, it is essential to secure as material for experimentation, individuals of both sexes who are near the sae age, who have the same social status, and who have been subjected to like training and social surroundings. Probably the nearest approach among adults to the ideal requirement is afforded by the undergraduate students of a coeducational university. For most of the the obtaining of an education has been the one serious business of life.
+The individuals who furnished the basis for the present study were students of the University of Chicago. They were all juniors, seniors, or students in the first year of their graduate work. The subjects were obtained by requesting members of the classes in introductory psychology and ethics to serve.
+She found (a finding replicated by all later studies and now considered essentially proven) that women have slower reaction times than men (interestingly, this difference does 
+not
+ correlate with IQ) 
+ but more relevant to the current meta-analysis, she found the same generally fast reaction times as Galton.
+The modern studies, keeping with the zeitgeist of the modern age, are much less colorful. I only looked into the two largest: one Scottish, the other Australian. Here
+s what the Scottish study says of its methodology:
+
+
+The study was originally located in the Central Clydeside Conurbation (Figure 3), a socially heterogeneous and predominantly urban region, including Glasgow City, which is known to have generally poor health. Two-stage stratified sampling was used to select subjects. For the regional sample, local government districts were stratified by unemployment and socio-economic group data from the 1981 Census and 52 postcode sectors were systematically selected from these with a probability proportionate to their population size. The same postcode sectors were chosen for all three cohorts. The sampling frame used for individuals was Strathclyde Regional Council
+s 1986 Voluntary Population Survey—an enhanced electoral register that provides details of the age and sex of all household members.3 Individuals were selected from the 52 postcode sectors within each age cohort with a systematic selection with a prescribed sampling interval from a random start.
+I was getting bored by the time I made it to the Australian study, but I managed to keep my attention on it long enough to note the following sentence:
+
+
+Persons selected at random from the Electoral Roll [of Canberra] were sent a letter informing them about the survey and saying that an interviewer would contact them soon to see if they wanted to participate.
+Look around you. Just look around you. Have you worked out what we
+re looking for yet?
+That
+s right. The answer is 
+selection bias
+.
+Back in the Victorian Age, science was done by aristocrats and gentlemen who drew their subjects from their own social groups. There were no poor people in either study, because getting poor people to participate in an experiment would require finding some poor people, who probably smelled terrible and lived in areas where there were no good restaurants.
+In the Modern Age, everyone is excruciatingly Socially Aware, and studies go out of their way to look at Disadvantaged Disempowered Disprivileged Populations so their results can serve as Cutting Social Commentary.
+Galton
+s study population was visitors to a science museum in the posh part of London who were willing to pay him $25 to participate. Thompson
+s population was University of Chicago philosophy students. The two modern studies are random selections double-checked to make sure they don
+t undersample the poorest sections of the population.
+So, uh, congratulations, authors of this paper! You have successfully proven that the average member of the population is dumber than wealthy science dilettantes 
+and
+ students at elite colleges! Go pat yourself on the back!
+In case we need more rigor: according to 
+The National Center for Education Statistics
+, about 2.3% of Americans went to college in 1900. In a perfect meritocracy maybe only the smartest people would go to college, but we
+re not a perfect meritocracy. Would it sound about fair to say that the people in college at the time were a sample of the 20% or so of the smartest Americans?
+Because the IQ of someone at the 80th percentile is 113 
+ that is, exactly enough to explain the 14 point IQ 
+drop
+ that Woodley et al found.
+This is a little harder to do with Galton
+s science museum visitors. The 1985 commentary on Galton
+s data tells us:
+
+
+As would be expected of a group of paying testees being measured in a museum, a sizable portion of Galton
+s sample consisted of professionals, semiprofessionals, and students. However, as may be discerned in Tables 10 and 11, all socioeconomic strata were represented.
+Tables 10 and 11 turn out to be a gold mine 
+ I worried the records of exactly who took the tests would be lost, but as you might expect of someone who basically invented statistics single-handedly and then beat Darwin in a debate about evolution as an encore, Galton was 
+very good
+ at keeping careful data.
+This site
+ tells me that about 3% of Victorians were 
+professionals
+ of one sort or another. But about 16% of Galton
+s non-student visitors identified as that group. These students themselves (Galton calls them 
+students and scholars
+, I don
+t know what the distinction is) made up 44% of the sample 
+ because the data was limited to those 16+, I believe these were mostly college students 
+ aka once again the top few percent of society. Unskilled laborers, who 
+made up 75% of Victorian society
+, made up less than four percent of Galton
+s sample!
+So this discredits this meta-analysis way beyond any need for further discrediting, but since I can
+t help beating a dead horse
+Let
+s talk about race. 
+We know that
+ studies find white people usually have faster reaction times than black people 
+ in fact, a lot of the voluminous and labyrinthine research on race and IQ hinges on this fact. We thankfully do 
+not
+ have to enter the minefield of trying to figure out the causes of this discrepancy (biological vs. environmental vs. social) 
+ we can just take it as a brute fact.
+What percent of Galton
+s 1889 science museum visitors do you think were non-white? What percent of Thompson
+s 1895 University of Chicago students? Approximately zero? Sad to say, non-white people were as likely to be 
+exhibits
+ in the science museums of the day as visitors, and according to no less a figure than W.E.B. DuBois in 1900 there were 
+only 2600 living black Americans
+ who had graduated college.
+I looked them up some stats on the sample areas for the modern studies 
+ 6% of Glasgow is non-white, and about 12% of Canberra. So aside from selection bias affecting intelligence which affects reaction time, we have selection bias affecting race which affects reaction time.
+May I just say how annoyed I am that I have to remind reactionary eugenicist IQ researchers, 
+of all people
+, to pay attention to race? YOU HAD ONE JOB!
+Finally, there
+s significant IQ differences within populations of the same race and country simply due to migration effects. An 
+analysis of IQs across Great Britain
+ finds that the highest scores are in London (102) and the lowest in Scotland (97). Almost all this meta-analysis
+ Victorian data came from London (Galton
+s museum in Kensington) and the largest source of modern data (making up about half of the whole, and being unusually high in reaction time) came from Scotland (and Glasgow isn
+t even the nice part of Scotland). The 5 point London 
+ Scotland difference explains over a third of the 
+difference between Victorians and moderns
+ found in this study.
+So in conclusion, this study ignores race, ignores regional variations, but most importantly IGNORES THAT ALL ITS VICTORIAN STUDIES WERE SAMPLING FROM THE SMARTEST 20% OR SO OF THE POPULATION AND THEY GOT EXACTLY THE NUMBERS YOU WOULD EXPECT IF YOU DID THAT.
+There is some 
+really excellent
+ IQ research out there that everyone should be reading, but this is not it. Please please 
+please
+ don
+t cite this study as evidence for dysgenics or the decline of civilization.

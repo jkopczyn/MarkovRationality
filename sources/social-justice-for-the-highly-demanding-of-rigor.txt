@@ -1,1 +1,155 @@
 Social Justice For The Highly-Demanding-Of-Rigor
+My last two posts have led to a lot of anti-feminist activists getting linked to my blog, so this would be a more hilarious time than usual to write the next post in my series of arguments against Reactionary politics 
+ about why fighting racism and sexism is necessary and important.
+The Reactionary argument, as I understand it, is twofold.
+First, that social justice advocates irresponsibly take some undesirable outcome in minority groups, like poverty, and then assume it is the result of racism or sexism without considering other possible explanations.
+Second, that a disproportionate amount of time and energy is spent worrying about this, in a way that can only be explained through wasteful signaling cascades.
+My counterargument is that although the first argument is true a depressingly large amount of the time, some people do more rigorous work and get the same result 
+ that poor outcomes for minority groups are caused in large part by racism and sexism. And second, that these poor outcomes for minority groups are a major problem even by objective quantifiable standards.
+Controlled Experiments On Prejudice
+The most fun experiments on prejudice are 
+Implicit Association Tests
+, which test people
+s reaction times in linking together different concepts. If these concepts are socially important (for example, the concepts 
+white person
+, 
+black person
+, 
+good
+, and 
+evil
+) it can test how closely two different concepts are linked. The best way to get a feel for this is to 
+take one yourself
+.
+88% of white Americans (and 48% of black Americans!) show an implicit racial preference for whites on this test. How does that translate into the real world?
+Some of the most interesting controlled experiments are detailed in an early 
+90s 
+review article
+ in the Journal of Black Political Economy. A consortium of interested parties such as the Fair Employment Committee teamed up with recent university graduates. They laboriously paired white and black graduates by similar attractiveness, well-spokenness, age, gender, and qualifications (in some cases, the qualifications were faked to be as similar as possible), then sent them off job-hunting to the same companies.
+In these sorts of experiments, 48% of white testers and 40% of black testers received interviews, a small and in fact nonsignificant difference. 
+However
+, 47% of interviewed whites were offered jobs, compared to only 11% of interviewed blacks 
+ a 
+gigantic
+ difference. Multiplying these two numbers together, we find that 23% of whites and 4% of blacks involved in the experiment got jobs 
+ a difference of almost 6x. The whites also got a few other minor advantages 
+ very slightly higher wages and slightly more likelihood of being informed of other open positions at the company.
+Another good 
+review article
+ is in the Annals of the American Academy of Political and Social Sciences. It lists a few similar studies. In one such study, researchers, instead of training real applicants, send off fake resumes with extremely white-sounding or extremely black-sounding names; they find employers respond to the white-sounding names about 50% more often. But it also has some studies of in-person interview similar to the ones above. These studies, which are from the mid-2000s rather than the early 1990s, feature white:black success ratios of anywhere from 1.5x to 5x.
+Along with labor discrimination, it
+s harder for minorities to buy things. For example, 
+when trying to buy a car
+, black men were asked to pay on average $1100 more than attribute-paired white men. Interestingly enough, black car salesmen, and black owned car dealerships, displayed this pattern to exactly the same degree as white-owned institutions.
+The situation is roughtly similar 
+in housing
+. In an experiment where researchers responded to Craigslist notices advertising apartments in Toronto, using names of various ethnicities, they found that Caucasian experimenters confused relative risk with odds ratios 100% of the t
+ahem, sorry, they found black people experienced housing discrimination 5% of the time and Muslims 12% of the time, usually in the form of not receiving a response even when the white person was simultaneously invited to come on over. A similar study 
+in Houston
+ found an astronomical 80% discrimination rate for blacks, so either Houston is much worse than Toronto, someone
+s not doing their studies properly, or I
+m misinterpreting something.
+Other experiments along the same lines include a cute little 
+bus experiment
+ in Sydney where someone got on bus, their travel card didn
+t work, and they asked the driver to let them ride anyway. For whites (and Asians) it worked about 72% of the time; for Indians, about 50%, and for blacks, 36%. In a later survey, bus drivers (who were unaware the experiment was going on) claimed they would prefer to help black people over white people. Interestingly enough, although black bus drivers were a bit nicer to blacks than white bus drivers, they 
+still
+ let whites and Asians on more often.
+We find much the same pattern with men and women. A 
+famous study
+ a few months ago found that faculty offered a female grad student a 12% lower salary than an identical male grad student (again interestingly, female faculty were 
+more
+ biased against female grad students than male faculty were).
+A less perfect but more natural experiment is switching from an open application procedure where applicants
+ genders are obvious to a blind procedure in which genders are unclear. If the percent of women hired increases (and perhaps if no similar increase is seen in competitors that don
+t change procedure at the same time) this implies the institution was being unfairly biased before. 
+When such a test was performed by the 
+Journal of Behavioral Ecology
+ starting in 2001, the percent of articles by female authors went up from about 29% to about 37%, about a 30% increase
+ 
+.[EDIT: This has since been 
+found to be false
+]
+ Symphony orchestras are another infamous example, and 
+studies show
+ that the switch from open to blind auditions explains between half and a third of the recent quintupling of the percent women in symphonies over the past thirty years.
+What do these show and not show? They show that, even controlling for all other factors like different preferences, different negotiating strategies, different educational backgrounds, et cetera there is a large difference in the opportunities of minority and majority groups due solely to discrimination. This difference seems large enough to explain the proportion of the income gaps that people say it explains (usually around half of the gap for each minority group) and to give minorities large amounts of trouble throughout the rest of their lives.
+One thing it does not show is that racism is just about straight white men being evil. Minorities seem just as willing to screw other minorities over and discriminate in favor of white men as the white men themselves are. A better model would be that ideas of certain races and genders being superior seem to percolate into people
+s consciousnesses, regardless of what race those people themselves are, and shape their actions whether they mean for them to or not.
+Economic Costs of Discrimination
+A beautiful experiment 
+by Gwartney and Haworth
+ noticed that baseball formed a natural experiment about the costs of discrimination. During the post-Jackie-Robinson 1950s, some teams had integrated but others had not and remained white-only. G
+H wondered whether this affected performance. They found that in fact the five teams quickest to integrate black players were five out of the six top performers in the league, and that every additional black player on a team resulted in an addition 3.75 wins. This was partially because black players outperformed whites on average, but also because there was more low-hanging fruit in the form of black talent which could be employed more cheaply.
+What is true for baseball teams is probably also true for other companies, but harder to quantify. For such a popular field, I cannot for the life of me find any attempt to quantify the economic costs of racism. There seem to be some people in Australia working on it, but they have yet to publish any results. So let
+s make some up (this, uh, ends the demanding-of-rigor part of this post).
+One way to do this is to take people
+s estimates of the purely-discriminatory pay gap for different groups 
+ that is, how much less they earn than straight white men when all other factors anyone can think of (like education level, IQ, height, region of residence, whatever) are adjusted away. Then multiply this by the number of people in that group and their average wage, and we get part of the cost of racism per year.
+One of the review articles above suggests the black pay gap is 15%; others suggest numbers around 10% for women. Asians and gays make a bit more than straight white men, and although Latinos make much less no one has bothered adjusting for confounders so I can
+t include them.
+Anyway, when I add all that up, I get $374 billion.
+(one might argue that the companies these people work for 
+gain
+ this money as profit by paying employees less, so it all evens out. I don
+t think that works. In at least some cases, the lower pay must be because they have lower-level jobs than their white male counterparts. But since we already agreed they have the same skills as their white male counterparts, this suggests their skills aren
+t being used fully, which means the cost really is to the economy and not just to them. I have no idea whether this argument works in real life. Like I said, the highly-demanding-of-rigor probably should have stopped with the first half of this post)
+Another claim is that companies lose 
+$64 billion dollars
+ to discrimination-related turnover yearly. The number is generated by taking the cost of replacing a lost employee with results of surveys about how many people leave due to discrimination or hostility at their former place of employment.
+Suppose we arbitrarily and implausibly stop here because we
+re tired. We
+ve found costs of US racism equal to at least $438 billion per year.
+That
+s 
+about
+ the annual budget of the US military.
+Note what it doesn
+t include. It doesn
+t include any non-monetary costs like people being unhappy. It doesn
+t include the costs to the prison system of overprosecuting minorities. It doesn
+t include the costs to the health system of minorities getting worse preventative health. It doesn
+t include the amount the government spends fighting racism, or the amount people have to pay out in racism lawsuits. It doesn
+t include people who are unemployed because of racism, because I took the data from the employment records. It doesn
+t include any of the income gap due to racism anywhere other than at job 
+ for example, racism that affects how much education people of different races end up with, or racism the person
+s parent suffers that then screws up their families for several generations. It doesn
+t even include Latinos because I couldn
+t find any good numbers about them.
+It seems 
+very
+ unlikely to me that the actual costs are less than $1 trillion/year in the US alone. But let
+s stick with the $438 billion figure.
+(another way to look at this is that these arbitrarily-stopped at costs of racism/sexism are about $2-3K per minority group member in the US, counting women as a 
+minority group
+. This seems broadly reasonable, and is in fact still way less than the observed non-adjusted income gap)
+What other things cost $438 billion dollars? According to the American Cancer Society, cancer costs 
+$200 billion/year
+ Heart disease costs 
+$100 billion
+. Adding up all of the easy-to-calculate costs of 9/11 on 
+this page
+, I get about $250 billion.
+So in terms of purely economic, not-even-worrying-about-human-beings costs, the costs of racism and sexism that can be pretty plausibly attributed to discrimination alone are equivalent to about heart disease plus cancer plus half a 9/11 or so per year.
+One good thing about the size of this number means that small successes in fighting racism and sexism are extremely valuable. For example, decreasing racism/sexism by 1% is a $4.4 billion gain per year to the economy, which is about equal to Facebook
+s 2011 annual revenue.
+Effectiveness
+Now none of this is meant to claim that the marginal blog on Tumblr complaining about the patriarchy has positive expected value or is anything other than a massive waste of everyone
+s time.
+But there are aspects of the social justice movement interested in 
+testing what works
+ and doing it.
+As of yet, I don
+t think most of them are aware of the pitfalls in claiming successful interventions 
+ all of these 
+We found our intervention decreases expressions of prejudice on a seven point scale two weeks later!
+ things sound suspiciously like 
+Our drug increases 
+good cholesterol
+ after three days, and we didn
+t bother to check whether it actually prevents heart attacks but seriously how could it not?
+But we can
+t blame them for their failure to be more rigorous than the hard sciences, and besides one day they might wise up.
+With Implicit Association Tests, Ultimatum/Dictator games, and the like, I think there is a decent toolkit for people who want to wise up and seriously analyze anti-racism and anti-sexism strategies, and I bet when they are tested further some of the ones in that document will turn out to work longer-term. Maybe they could decrease racism by 1% a year and save us $4 billion or so.
+The fact that racism in the sense of simple prejudice is a real problem that accounts for much of the disadvantage of minorities; that it has a huge negative effect even when you try to measure it objectively; and that it can be fought 
+ seem to take some of the wind out of the Reactionary argument against social justice.

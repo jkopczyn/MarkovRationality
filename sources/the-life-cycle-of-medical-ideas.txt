@@ -1,1 +1,121 @@
 The Life Cycle of Medical Ideas
+I.
+About five years ago, an Italian surgeon with the unlikely name of Dr. Zamboni posited the theory that multiple sclerosis was caused by blockages in venous return from the brain causing various complicated downstream effects which eventually led to the immune system attacking myelinated cells. The guy was a good surgeon, nothing about the theory contradicted basic laws of biology, and no one else had any better ideas, so lots of people got excited.
+As far as I can tell, the medical community responded exactly one hundred percent correctly. They preached caution, urging multiple sclerosis patients not to develop false hope. But at the same time, they quickly launched 
+studies investigating Zamboni
+s experiments
+ and 
+used newly gathered data to test the theory
+. All the results that came back made the idea look less and less likely, so that to my understanding by now it is pretty much discredited. Having successfully spent hundreds of thousands of dollars to empirically disconfirm Zamboni
+s hypothesis, we can now reflect at leisure on the reasons 
+it was kind of dumb and we should have realized it all along
+.
+II.
+About five years ago, two Israel doctors named Gat and Goren posit the theory that benign prostatic hyperplasia, a prostate disease that affects millions of older men, is caused by incompetence of the spermatic veins. They claim they can treat it surgically, and show off rows of smiling patients with glowing testimonials. Once again, the guys are good doctors, nothing about their theory contradicts basic laws of biology, and no one else has any better ideas. 
+I shamefacedly admit I 
+want
+ this one to be true. There
+s so much 
+well, everything is a complicated combination of genes, biomolecules, biopsychosocial stressors and immune modulators that we may never really understand
+ going on in medicine today that it would be super gratifying if this one mysterious disease turned out to just be plumbing going in the wrong direction. And although the prostate is about as far from my area of expertise as it is possible to be, I have to say that from a physiological standpoint their theory seems to have that rare and much-sought scientific elegance, where everything comes together in a pretty package.
+On the other hand, it sounds a whole lot like the Zamboni debacle transposed to a different organ, and Gat and Goren don
+t have much evidence other than a pretty theory and their own anecdotal success.
+As far as I can tell, the medical community has totally ignored this one. Gat and Goren have published their hypothesis and their apparent excellent results 
+in peer-reviewed medical journals
+. It has garnered 
+praise
+ from prestigious figures in the field (bonus points for calling it 
+seminal
+, especially if the pun was intentional). As far as I know, no one has attacked it or even formally expressed doubt. Yet as far as I know, it has gone nowhere.
+Does everyone mutually assume that if something this revolutionary were true, someone would have noticed beyond a single article in a urology journal? Do they just decide it needs further research, and hope that this research will be conducted by someone else? Or do they think that it would end up like Zamboni
+s MS cure, with hundreds of thousands of dollars wasted, dozens of unnecessary surgeries performed, and nothing to show but 
+yet another fringe medical idea
+ that sounded good at the time?
+III.
+Minocycline is a relatively boring umpteenth-line antibiotic sometimes used to treat acne. About five years ago, some Japanese doctors noticed that their schizophrenic patients with acne seemed to be 
+getting better
+. This was especially bizarre because some of these patients had 
+negative symptoms
+, a set of schizophrenia symptoms considered totally untreatable and which the super-advanced next-generation antipsychotics being pumped out by drug companies can
+t even touch. They started wondering 
+ can minocycline, an uninspiring antibiotic from the early 1970s, do what all of these psychiatric medications can
+t?
+Once again the medical community responded correctly. They launched a couple of double-blind placebo-controlled studies of minocycline, and sure enough, 
+the stuff was shown to work
+ 
+again and again
+.
+And yet the psychiatrists I know have never heard of it, and I am not aware of any psychiatric hospital in the world where minocycline is routinely given to schizophrenic patients with negative symptoms outside of a clinical trial.
+It
+s not like this is some kind of experimental drug that might kill the patient and isn
+t even legal yet and we have to wait for further research. If the schizophrenic patient happens to get 
+acne
+, the psychiatrist will be perfectly happy to send them to the nearest CVS Pharmacy to pick up a bottle of minocycline, which they will no doubt have in droves. It
+s just the schizophrenia connection that isn
+t there.
+I
+m totally in favor of waiting for all the research to come in and not jumping to conclusions. The problem is that I don
+t understand exactly what the process is. If the rule was 
+We must wait for NIMH to fund a study with greater than 2,000 subjects, and after that everyone will prescribe it, and NIMH is currently working on crunching the data, so just hold your horses,
+ this would sound totally reasonable to me. The problem is that I don
+t know what we
+re waiting for and I
+m not sure there actually 
+is
+ a thing we
+re waiting for except a spontaneous change in the zeitgeist, which could take forever.
+IV.
+When people blame drug companies for suppress any promising medications they can
+t make a profit off of, those people are missing the point.
+The drug companies don
+t suppress promising medications. Promising medications start off pre-suppressed. In some cases they are suppressed by regulation that says a drug has to go through crazy expensive trials before it can be approved. In other cases, they are suppressed simply by the burden of proof: even without the government, doctors aren
+t going to prescribe something they don
+t know is safe and effective, and they
+re not going to know it
+s safe and effective without studies, which as I may have mentioned are crazy expensive. In still other cases, the medications are suppressed by medical conservativism: most doctors very reasonably don
+t want to use a drug unless they know other doctors they respect are using the drug, so unless the drug impresses itself onto the consciousness of the entire medical community at once it will fizzle out.
+What drug companies do, as best I understand it, is put billions of dollars and millions of man-hours of effort into un-suppressing those particular drugs it is in their financial interest to un-suppress. They are doing a great service. It
+s just a very selective one.
+I
+m not sure how it works in surgery. As far as I know, there aren
+t companies that patent surgical procedures and then popularize them. If there were, maybe one of them would pick up Gat-Goren and give it a fair try to stand or fall on its own merits. As it is, it looks like it will have to wait for some university or charitable group to pick it up 
+ and let
+s face it, 
+my eighty year old grandpa gets up to piss half a dozen times a night
+ isn
+t quite as sexy as multiple sclerosis.
+In medicine, drugs are usually approved for specific indications. Doctors are allowed to prescribe them for other indications, but there are trivial inconveniences and minor legal hurdles and in practice most of them rarely do. Some pharmaceutical company was nice enough to get minocycline approved for acne back in the 
+70s, but since then it
+s gone off patent and no one owns it enough to say 
+Hey, start the process to approve this drug of mine for schizophrenia!
+ The medical community is pretty smart and I bet there
+s a process by which this will eventually happen, but I also bet it will take a long time and be overly complicated and a whole lot of schizophrenics will have to suffer from negative symptoms long after the vanguard of the medical community has satisfied itself that these are treatable.
+(I can imagine the look on my attending
+s face if I suggested we treat one of our schizophrenic patients with minocycline. I expect I would get a lecture on how We Have To Be Responsible And Ethical, and then we would give them one of the same three drugs we give all schizophrenics. I might have more luck painting little fake acne pustules on my schizophrenic patients
+ faces, but most of the ones I have now are Paranoid-Type and I 
+really
+ can
+t imagine them going along with that. I
+ll just have to wait until I get someone catatonic.)
+Which is why it sucks that the 
+other
+ really interesting drug that might revolutionize the treatment of schizophrenia is 
+an antihypertensive from the 1950s
+.
+V.
+I find the life cycle of medical ideas really interesting.
+I was always taught that there were two kinds of medicine. Real medicine, which has been proven to work by studies. And alternative medicine, which has been proven not to work by studies but people still use it anyway because they are stupid.
+This dichotomy leaves out the huge grey area of 
+things that seem like they will probably work, and a few smaller studies have shown very promising results, but no one has bothered to do larger studies, or if they have they have never really been incorporated into medical practice for reasons I can
+t put my finger on.
+Some of this grey medicine, like Zamboni
+s MS treatment, are doomed to eventually fall back into the abyss of alternative medicine. Others, like the Gat-Goren procedure, teeter in the middle, threatening to go either way. Still others, like minocycline, have already been sanctified and dressed in robes of white, and the only thing preventing them from entering Evidence Based Heaven is some sort of weird bureaucratic snafu at the Pearly Gates.
+I am encouraged that all three of the examples of grey medicine cited in this article are about five years old. It suggests that there
+s a certain window of time during which grey medicine is well-known but hasn
+t yet been well-studied. Maybe most of the newer stuff I don
+t know about, and most of the older stuff has been successfully proven or disproven. It seems possible to me that the current system does have the optimal combination of safety and innovation, or at least the best we can do without a Science Czar. As I immerse myself in Medical Culture, I look forward to finding out whether there are some hidden processes for dealing with this, or whether the situation is really as dire as it looks.
+But I am also hopeful that some new organizations like 
+Microryza
+ and 
+MetaMed
+ might, totally independent of justified or unjustified medical conservativism, be able to speed the process along.

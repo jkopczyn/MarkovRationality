@@ -1,1 +1,102 @@
 Sleep &#8211; Now By Prescription
+Ramelteon isn
+t a bad drug. It
+s just that its very existence stands as a condemnation of the entire medical system.
+All sleep medications have to straddle a very fine line between 
+idiotically dangerous
+ and 
+laughably ineffective
+, and Ramelteon manages better than most. It 
+outperforms placebo
+, it
+s not addictive, it won
+t sap your ability to sleep without it, and it doesn
+t 
+screw up your brain so badly that its unofficial mascot is a hallucinatory walrus
+.
+How does it do it? Ramelteon is the first melatonergic drug, selectively binding to MT-1 and MT-2 melatonin receptors. Binding to melatonin receptors presumably mimics the effect of the natural hormone melatonin which is believed to serve a sleep-promoting role.
+Now, you might ask yourself 
+ the natural hormone melatonin is available as an over-the-counter supplement costing a couple cents per pill in every drug store, and 
+provably
+ quite safe and effective. Why would anyone go through the trouble of creating a drug that mimics its action? Especially if a month
+s supply of the drug costs around $100 
+ which it does.
+The answer is: 
+I have no idea and I
+m pretty sure no one else does either
+.
+Wikipedia says of Ramelteon that:
+
+
+In a double-blind multicenter trial, Ramelteon did reduce the time to fall asleep by approximately 15–20 minutes, at 8 mg and 16 mg doses after four weeks compared to placebo (approx. 29-32 versus 48 minutes) Total sleep time improved about 40 minutes, however, this was identical to improvement with placebo at the end of trial
+A meta-analysis of melatonin says:
+
+
+Our meta-analysis demonstrated melatonin had a significant benefit in reducing sleep latency. Subjects randomly assigned to melatonin fell asleep 7 minutes earlier on average than subjects receiving placebo
+in the random effects model, sleep latency was reduced by over 10 minutes
+Sleep latency is a tough statistic to work with, because it depends a lot on how quickly the people in your trial got to sleep in the first place. If the study population is chronic insomniacs who take an hour to fall asleep each night, a good drug might be able to reduce that by 30 minutes. If the study population is normal youth who fall asleep within ten minutes, needless to say your drug isn
+t going to be able to do 30 minutes better.
+So, for example, it
+s easy to find a melatonin trial that finds 
+a very impressive sleep latency decrease of 34 minutes
+, or a ramelteon trial that finds a 
+rather anaemic 9 minutes
+. The only fair way to compare ramelteon and melatonin is to run a head-to-head trial.
+The only such trial that has ever been performed was 
+performed on monkeys
+, and its results were 
+contradicted by other monkey experiments
+. Also, it was run by the company that sells Ramelteon.
+I think we may have enough evidence to conclude that Ramelteon is at least as effective as melatonin. There may even be some very tenuous evidence to suggest it is slightly more effective. But let me tell you a story.
+One of my patients ran into the Ambien Walrus the other day and so, make a long story short, she needed a new sleeping pill. She was on a lot of drugs at the time and not all that healthy, and every drug I could think of, the pharmacist had some good reason why that would be a terrible idea in her case. Finally in desperation I remembered Ramelteon, which is safe as houses. Unfortunately Ramelteon is kind of new, and the pharmacy didn
+t have it.
+Okay,
+ I said. 
+Why don
+t we just give her some melatonin? Some studies in monkeys suggest it 
+might
+ be slightly inferior to Ramelteon, but it
+s sure better than nothing.
+Let
+s see if you are cynical enough to predict what happened next.
+That
+s right. The hospital pharmacy, which carries thousands of drugs including bizarre experimental concoctions and super-expensive recombinant monstrosities, 
+didn
+t have melatonin
+.
+So do you want to know what the plan was, that the pharmacist and I came up with to treat my patient? I would take my lunch break, drive home, go into the cabinet in my bathroom, take the bottle of melatonin I had there, and bring it to the 500-something bed, multi-billion dollar hospital I work at.
+This is why the story of Ramelteon scares me so much 
+ not because it
+s a bad drug, because it isn
+t. But because one of the most basic and useful human hormones got completely excluded from medicine just because it didn
+t have a drug company to push it. And the only way it managed to worm its way back in was to have a pharmaceutial company spend a decade and several hundred million dollars to tweak its chemical structure very slightly, patent it, and market it as a hot new drug at a 2000% markup.
+I
+m not knocking the pharmaceutical companies 
+ they didn
+t do a think to suppress melatonin. All they did was notice that doctors were too dumb to use melatonin on their own and figure out a way around that problem.
+And this is not an isolated incident. For example, on the rare occasions psychiatrists remember that folic acid exists at all they prescribe Deplin ($100/month, prescription only) instead of the 
+chemically identical
+ l-methylfolate ($5/month, over the counter).
+While we
+re on the subject of melatonin, here are some Fun Melatonin Facts you may not have known (courtesy of 
+Melatonin and Melatonergic Drugs as Therapeutic Agents: Ramelteon and Agomelatine, the Two Most Promising Melatonin Receptor Agonists
+):
+ Melatonin
+s sleep promoting effects might be related to its ability to decrease core body temperature, which seems tantalizingly related to 
+the finding that cooling caps are highly effective against insomnia
+.
+ 
+Smith-Magenis Syndrome
+ is a rare genetic condition among whose effects are disruptions in the melatonin system. People with this syndrome wake at night and sleep during the day, meaning we can add this to 
+porphyria
+, 
+anemia
+, and 
+rabies
+ on the List Of Diseases That People With More Desire To Explain Away Ancient Folktales Than Sense Use As A Factual Basis For Vampirism.
+ Many people use melatonin at night to try to hack their own circadian rhythms, but this is only mildly effective because they still have their own endogenous melatonin doing their own thing. The nuclear version of this strategy is to use melatonin at night to increase melatonin levels and beta-blockers in the morning to decrease melatonin levels; the combination can give you almost complete control over your own circadian rhythm.
+ Melatonin seems to play a role in fat metabolism and has been found to decrease weight gain associated with overfeeding in rats. 
+ Agomelatine is a melatonergic antidepressant that has been found to be approximately as effective as SSRIs with fewer side effects which is available in Europe. However, attempts to sell it in the USA were cut short when it failed to clearly differentiate from placebo in clinical trials (see: 
+found to be approximately as effective as SSRIs
+)
+ Melatonin appears to slow the growth of tumors, and a possible role as an adjuvant to classical chemotherapy drugs in cancer treatment is just one of the exciting areas of melatonin biology doctors are completely failing to explore.

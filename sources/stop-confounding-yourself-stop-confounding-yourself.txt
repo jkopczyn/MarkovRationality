@@ -1,1 +1,107 @@
 Stop Confounding Yourself! Stop Confounding Yourself!
+As a perk of my job, I get a free subscription to the 
+American Journal of Psychiatry
+. I am still not used to this. No enraging struggles with paywalls. No 
+one year embargo on full text
+. I just come home and find all of the latest and most interesting journal articles have been 
+shipped directly to my house
+. Modern technology is truly amazing.
+Its latest is Takizawa et al
+s 
+Adult Health Outcomes of Childhood Bullying Victimization: Evidence From A Five-Decade Longitudinal British Birth Cohort
+. It has since been picked up by 
+Fox
+, 
+the Washington Post
+, and even 
+Xinhua
+. I think that
+s enough to qualify for 
+made world headlines
+.
+The study took some British kids in 1958, sorted them by how much they got bullied, and checked how they did forty years later. In fact, the frequently bullied kids had nearly twice as much psychiatric disease, were twice as likely to attempt suicide, were twice as likely to drop out of high school, and even had double the unemployment rate. Worse physical health, worse cognitive function, less likely to get married, et cetera, et cetera.
+Those must be 
+some
+ bullies.
+But correlation is not causation. There
+s an alternative possibility. Maybe bullies only pick on unpopular disadvantaged kids. And maybe these kinds of things are stable, so that unpopular disadvantaged kids are more likely to grow up to be unpopular disadvantaged adults. The sort of adults who are more likely to have psychiatric disease, drop out of school, be unemployed, et cetera. 
+That
+ sure sounds plausible.
+So the researchers 
+controlled for confounders
+. They used a scale called the Bristol Social Adjustment Guide to figure out how socially well-adjusted the kids were, then aded in their social class, their family
+s level of contact with child protective services, their IQ, their attractiveness, and even how much their parents loved them (really! check the study!)
+They controlled for all these things and found that the bullying-outcomes link was still robust. They concluded that this meant their finding wasn
+t just that bullies were bullying kids with problems, it was that bullies were causing the damage themselves.
+Do you believe that? It all comes down to one question.
+Who is better able to look deep inside you and judge the mettle of your soul? A playground bully? Or the Bristol Social Adjustment Guide?
+My money is on the bully. Bullies are like sharks: horrible pinnacles of evolution. Animals have been learning to navigate social dominance hierarchies through violence since pecking orders in chickens, on through wolf packs and chimpanzees, and up into humans 
+ 
+and we are very good at it
+. The bully is the purest manifestation of the primal instinct, which is why he crops up untaught and unbidden in near-identical form in schoolyards from Los Angeles to London to Lanzhou. And like sharks, a good bully should be able to smell blood in the water and know when an opportunity to attack presents itself.
+Most of the findings of this study were in the 
+frequently bullied
+ population, and part of the criteria for 
+frequently
+ was bullying both at age 7 and age 11. Unless that
+s just one 
+really
+ persistent guy, that means the child has gotten independently selected for targeting in two different environments. That could be bad luck but could also be the effect of high inter-bully reliability in what (persistent) qualities make a good victim.
+So let
+s take another look at those confounders we supposedly controlled for. Where
+s height? You think short kids are bullied more often than tall kids? I do. Height is closely related to 
+career success
+, to 
+attractiveness to the opposite sex
+, 
+increased happiness and self-esteem
+, and 
+decreased psychological morbidity
+. This is something every bully knows intuitively, but which the Takizawa study didn
+t think of and therefore couldn
+t control for.
+But it
+s giving them too much credit to be bringing in weird stuff like height-mental-health correlations. What about social skills? Yeah, sure, they did that Bristol Social Adjustment Guide. I
+m looking at it right now, and it
+s asking the students
+ teachers to rate items like 
+hostility towards adults
+ and 
+depression
+. I don
+t believe that teachers filling numbers into hokey little boxes can capture an assessment of a kid
+s social skills as well as a bully trying to decide who can safely be picked on can.
+So I will come out and say it: I do not trust the practice of 
+adjusting for confounders
+, at least not the way this study does it. You are adjusting for an imperfect measurement of the confounders you can think of. If you find that there is lingering correlation, then either you your hypothesis is true, or you didn
+t adjust for confounders well enough. Given extraordinary results, like being bullied at age seven making you 25% less likely to be married at age fifty, the 
+you didn
+t adjust for confounders well enough
+ option starts to look really good.
+I think the proper way to do this study would have been to do an anti-bullying intervention at a couple schools, leave a couple similar schools as controls, and if the anti-bullying intervention successfully decreases bullying, compare outcomes for children at the two schools. I understand this probably would be logistically impossible, plus you
+d have to wait another forty years. But given that you cannot do the study right, I am not sure that doing the study this way adds anything, except of course widely-read articles in every news source in the world.
+I would also compare to 
+Reming et al
+, which attempts much the same study and finds no association after adjusting for 
+their
+ confounders of choice (which, oddly, are much fewer than in the current study). They also find that parent reports about bullying (the method Takizawa et al used) are wildly unreliable, with an inter-rater agreement of just 0.11 with reports by teachers or the children themselves (the statistic goes from perfect agreement being 1.0 to zero information being 0.0). For a 
+completely false
+ measure of bullying to find such spectacular effects is 
+really suspicious
+, and now we need to consider not only the differences between the types of kids who are and aren
+t bullied, but the differences between the types of parents who do and don
+t think their kids are being bullied.
+Since I insisted on giving this post a silly title, I will now share with you the most interesting perspective on psychology and the 
+stop hitting yourself
+ phenomenon I have read all week. This is from Jonathan Haidt on Kohlberg
+s moral stages:
+
+
+During elementary school, most children move on to the two conventional stages, becoming adept at understanding and even manipulating rules and social conventions. This is the age of petty legalism that most of us who grew up with siblings remember well (
+I
+m not hitting you. I
+m using your hand to hit you. Stop hitting yourself!
+). Kids at this stage rarely question the legitimacy of authority, but learn to maneuver within and around the constraints that adults impose on them.
+I always just thought that was a really dickish joke. I didn
+t realize it had a 
+deep philosophical underpinning.

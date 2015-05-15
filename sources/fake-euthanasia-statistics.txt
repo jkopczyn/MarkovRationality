@@ -1,1 +1,281 @@
 Fake Euthanasia Statistics
+I promised I
+d write something clearing up statistics on euthanasia in the Netherlands, so let
+s start with Anne McTavish: 
+The Netherlands
+ Euthanasia Stats Are Appalling
+. She writes:
+
+
+ I want to focus on the doctors and the rest of us who will be harmed if [a Canadian case on euthanasia] becomes law. We don’t need to speculate. The Netherlands has already gone down this slippery slope and provided the grizzly statistics that should stop us going down the same path.
+Now, I will be the last person to deny that there are indeed some grizzly statistics on euthanasia. For example, did you know the most recent grizzly to be euthanized in Yellowstone 
+had twenty five instances of aggressive behavior
+ before finally being caught? Or that a grizzly euthanized in Montana two months ago 
+had killed eight sheep and injured two more?
+ Or that a a grizzly euthanized last month in Fresno 
+was 38 years old
+, the oldest living bear in an American zoo?
+Yet McTavish inexplicably ignores this vast trove of useful information and chooses to focus on highly questionable medical data instead:
+
+
+In 1990, 130,000 people died in the Netherlands: 2,300 people asked doctors to kill them; 400 asked doctors to provide them with the means to kill themselves; 8,100 died when doctors deliberately gave them an overdose of pain medication to kill them (for which 4,941 patients didn’t consent); 1,040 people died when doctors euthanized them without their knowledge or consent (72 per cent of those never having given any indication they would want their lives terminated).
+That’s breathtaking in more than one way.
+It’s not so much that nine per cent died at the hands of doctors, which is alarming in and of itself. What should raise our cries of outrage is that 4,941 people (four per cent) did not give their consent to being killed. A doctor who operates on someone without their consent can be successfully sued and made to pay huge dollars for having done so. The same should apply for killing a person without their consent.
+And it’s the 1,040 people (one per cent) who were killed without their knowledge or consent and the 749 who never wanted to die early that should get us up in arms.
+“In only 23 years, Dutch doctors have gone from being permitted to kill the terminally ill who ask for it, to killing the chronically ill who ask for it, to killing newborn babies in their cribs because they have birth defects, even though by definition they cannot ask for it. Dutch doctors also engage in involuntary euthanasia without significant legal consequence, even though such activity is officially prohibited,” writes Wesley J. Smith in Forced Exit: The Slippery Slope from Assisted Suicide to Legalized Murder.
+II.
+So here
+s where it gets confusing. The article doesn
+t cite its sources, but a quick Googling finds that all its numbers come from 
+an article by the 
+Patients Rights Council
+, which 
+does
+ cite its source as the Remmelink Report, a huge report by the Dutch government in 1990.
+The Remmelink Report is not on the Internet, and in any case it is in Dutch. However, an English language paper summarizing the results 
+was published in the Lancet
+, and an English language digest of the report is 
+on Google
+s cache
+.
+The numbers in the digest and the Lancet article are somewhat different from the numbers in the article, and I was somewhat uncertain who to believe 
+ the people who seem to have a much more complete copy of the report in the original Dutch, or my own lying eyes? 
+Luckily, some people who ought to know have weighed in to guide me. Some of the authors of the Remmelink Report, in 
+a biting English-language article called 
+Dances With Data
+, complain about constant misrepresentations and lies about their research and request that 
+we can only hope that the truly interested reader will take the trouble of reading the Lancet article or the English version of the report itself, instead of relying on this faulty description.
+So I
+m going to take this as carte blanche to trust that the Lancet article and the English language digest of the report correctly capture the report
+s findings and to start criticizing these other articles based on that. So:
+Both the McTavish/Patients
+ Rights articles and the Lancet version of the Remmelink Report agree that there were 2300 cases of active voluntary euthanasia and 400 of physician assisted suicide.
+
+
+These are the cases we would classically treat as euthanasia. The report says that they were all done consensually, and in fact this is tautological as if they had not been done consensually they would have been classified as murder rather than euthanasia. Of these cases the report (but not the article) clarifies that:
+
+
+We found that in the Netherlands over 25 000 patients per year seek assurance from their doctors that they will assist them if suffering becomes unbearable. Each year there are about 9000 explicit requests for euthanasia or assisted suicide, of which less than one-third are agreed to. In most cases alternatives are found that make life bearable again, and in some instances the patient dies before any action has to be taken.
+In 96% of instances of euthanasia and assisted suicide the physicians stated that the request of the patient was explicit and persistent. (The finding that there always was a request of some sort is circular since such a request is at the core of the definition of euthanasia in the Netherlands.) In 94% the request had been made repeatedly; in 99% the physicians felt sure that the request had not been made under pressure from others; and in all cases they were convinced that the patient had sufficient insight and knowledge of the course of disease
+Along with these cases, both report and article agree that there were about 1000 people who were killed by physicians without 
+a clear and explicit request from the patient
+. However, the article simply leaves it at that, whereas the report adds:
+
+
+In 59% of life terminating acts without explicit request the physician had some information about the patient
+s wish [eg the patient had previously asked to be euthanized if a situation like this one arose]; in 41% discussion on the decision would no longer have been possible. The physician (specialist or general practitioner) knew the patient on average 2.4 years and 7.2 years, respectively. Life was shortened by between some hours and a week at most in 86%. In 83% the decision has been discussed with relatives and in 70% with a colleague. In nearly all cases, according to the physician, the patient was suffering unbearably, there was no chance of improvement, and palliative possibilities were exhausted.
+So baaasically, patients with only a few hours left to live who are in comas and have usually previously asked their physicians to euthanize them and whose family members have all said this is what the patient would have wanted and who have been evaluated by a bunch of doctors who say there
+s no way they
+re waking up 
+ sometimes these people get mercy killed. It
+s unclear to me whether this was legal in the Netherlands at the time or not, but it
+s hard to call this grisly.
+The articles and report then go into two more categories which are a little more worrying:
+First, there are 
+22 500 cases where the patient had died after the administration of drugs to alleviate pain and symptoms in such dosages that the risk of shortening the patient
+s life was considerable. In 6 per cent of these cases life-termination was the primary goal and in the remainder it was the secondary goal. In about 40 per cent of these cases the decision to increase drug dosages and the possibility that this might hasten death had been discussed with the patient. In 73 per cent of the cases where these matters had not been discussed with the patient, the patient was incompetent.
+ According to another Lancet paper, 
+In 85 percent of all such cases, the physician said that he or she had no intention of hastening death, but had taken into account the probability or certainty that death would occur. In 64 percent of cases the physician estimated that the patient
+s life had been shortened by less than 24 hours, and in 16 percent it was shortened by less than one week
+This situation is pretty common everywhere. The patient
+s clearly on her deathbed and in terrible pain. The physician says 
+We need to up the dose of morphine to keep her comfortable.
+ The intern says 
+We can
+t up the dose of morphine! She
+s already close to the maximum dose of morphine my pharmacology book says is safe for her body weight!
+ The physician just glares, and says 
+What
+s the worst that could happen? She dies an hour from now instead of a day from now? That
+d be a f@*king tragedy, wouldn
+t it? Just give her the damn morphine.
+These numbers provide no evidence that any of the six to fifteen percent of cases in which life shortening was a significant goal overlap with the cases in which the patient was not asked for consent. Actually, they don
+t even provide any evidence that the patient died 
+because
+ of these drug doses, just 
+after
+ them (and it seems pretty reasonable that death comes after being given drugs for a rationale that includes a person being on their deathbed). I
+m classifying this as 
+worrying
+ only because we can
+t prove from these numbers that there was no one who should have been asked for consent but wasn
+t.
+The second of these two categories is withholding of treatment. The report says: 
+There were 22 500 cases where death had resulted from non-treatment decisions (ie withdrawal or withholding of medical treatment), representing 17.5 per cent of all deaths. In 30 per cent of these cases the non-treatment decision had been discussed with the patient. In 62 per cent of these cases it had not. In 88 per cent of all cases where the non-treatment decision had not been discussed with the patient, the patient was incompetent.
+Here we can calculate that in about 7% of these cases, decision to withhold treatment was not discussed with a competent patient. However, the authors of this study have mentioned elsewhere that they include futile treatment in these numbers 
+ ie treatment that wasn
+t working or was just making the patient worse. They also mention that these treatments included feeding tubes, ventilators, et cetera 
+ so that this 
+withdrawal of treatment
+ is just what we would call 
+pulling the plug
+ in an American hospital. Once again, I include this statistic in the 
+worrying
+ category only because we can
+t prove from these numbers alone that non-futile treatment was never withdrawn without consent.
+But here
+s the thing: giving near-death people dangerously high drug doses and withdrawing medical treatment without patient consent 
+are not classified as euthanasia and are both completely legal here as well
+. In fact, the Remmelink Report says outright that 
+The Dutch data on medical practices which shortens life, in the cases of non-competent or of competent but not-consulted patients, are indeed a matter of concern
+ [but there] really is not a shred of evidence that the frequency of this sort of behaviour is higher in the Netherlands than, for example, in the United States; the only thing that is clear is that more is known about it in the Netherlands. In short, there is no reason to assume 
+ a causal relationship between limited legalisation of euthanasia and 
+lack of control
+ over other sorts of medical behaviour.
+ These sorts of non-euthanasia incidents are where nearly all of the so-called 
+euthanized without consent
+ numbers are coming from 
+ the article
+s claim of 4941 Dutchmen 
+euthanized without consent
+ is actually greater than the 
+total
+ number of Dutch people euthanized in the study.
+So here are the differences between the statistics as presented in the grizzly article 
+ its Patients
+ Rights inspiration, and the statistics as presented in the Remmelink Report:
+The numbers themselves are pretty different.
+The article classifies patients who asked to be euthanized if they ever had X happen to them 
+ and then had X happen to them, and because of X were unable to explicitly consent to euthanasia at that moment 
+ as 
+euthanized without consent
+.
+The article classifies patients whose doctors gave them unusually high doses of drugs with the aim of providing relief for pain or symptoms but without the primary goal of ending their lives as 
+euthanized without consent
+.
+The article classifies patients whose doctors withdrew treatment, including futile or invasive treatment, as 
+euthanized without consent
+The article classifies patients who were unable to consent, for example in terminal comas, but whose families said they would have wanted to be euthanized in such a situation 
+ as 
+euthanized without consent
+.
+The article classifies patients whose lives were shortened by only a few horrible hours as 
+euthanized without consent
+.
+The article classifies several categories of actions that are not euthanasia and which are currently both legal in and widely practiced in the United States as 
+euthanized without consent
+.
+And then 
+ surprise, surprise 
+ it finds that a lot of people are 
+euthanized
+ 
+without
+ 
+consent
+ in the Netherlands.
+III.
+But we shouldn
+t have to take our statistics from second-hand misinterpretations of a twenty-five year old untraceable report anyway. Back in 1990 when the Remmelink Report was written, euthanasia was in fact still illegal in the Netherlands (though decriminalized). Since then, it has been fully legalized, resulting in the ability to collect much better data. Let
+s see what we can find.
+One very simple statistic that doesn
+t even require any digging is 
+the life expectancy in the Netherlands
+. At 80.2 years, this is 15th highest in the world. It
+s also higher than all the Netherlands
+ neighbors, including Germany (79.8), Belgium (79.8), and its cross-Channel neighbor the United Kingdom (79.5) 
+ not to mention of course higher than the United States (78.0). Claims from some quarters (*cough* 
+Rick Santorum
+ *cough*) that the Dutch elderly are living in constant fear of being murdered are hard to square with the fact that the Dutch elderly live a good deal longer than our own.
+But we can do much better than this. Four years ago, the original authors of the Remmelink Report as well as some new researchers teamed up to produce 
+Two Decades of Research On Euthanasia From The Netherlands: What Have We Learnt And What Questions Remain?
+This is important because euthanasia was in fact only legalized in the Netherlands in 2002, so if we want to see what a country with legal euthanasia looks like, we need something more recent than those same few statistics the anti- crowd keeps bringing up. Further, by comparing current (legalized euthanasia) statistics to past (decriminalized euthanasia) statistics, we have a good basis for time comparison and looking at trends that might plausibly be attributed to greater legalization.
+The review begins by stating the requirements for euthanasia under the Netherlands
+ law:
+
+
+1. The patient’s request is voluntary and well-considered;
+
+
+2. The patient’s suffering is unbearable and hopeless;
+
+
+3. The patient is informed about his situation and prospects;
+
+
+4. There are no reasonable alternatives. Further,
+
+
+5. Another independent physician should be consulted; and
+
+
+6. The termination of life should be performed with due medical care and attention.
+It then evaluated the 5,600 cases of legal euthanasia in the Netherlands to determine how many of them had failed one or more of those criteria. They found that 
+In the period 2003–2005, the review committees gave the verdict of non-compliance in 15 cases on a total of 5,600 reported cases. The main reason for the verdict of non-compliance was a failure to fulfill the requirement of consultation of a second independent physician.
+99.8% of Dutch euthanizations were performed in cases where
+
+
+suffering was described as 
+unbearable
+. This is sufficient to
+
+
+disprove the contention that Dutch euthanasia is 
+grizzly
+.
+So remember how the article said that 72% of Dutch euthanasia was nonconsensual? The actual number seems more like 0.2% not following the letter of the law, and 0% involving actual consent violations.
+
+
+In 1990, 1.7% of all deaths were preceded by euthanasia, as compared with 2.4% in 1995 and 2.6% in 2001 (see Table 1). This trend reversed in 2005, when 1.7% of all deaths were the result of euthanasia (approximately 2,300 cases). The number of euthanasia requests also decreased in this period: from 9700 in 2001 to 8400 in 2005.
+So, we go from claims of 
+slippery slopes
+ and 
+as soon as it
+s legal there will be pressure to apply it to more and more different groups and incidents
+ to 
+actually, incidence has been going down for the past few years.
+
+
+Table 1 further shows that the frequency of ending of life without an explicit patient request decreased from 0.8% of all deaths in 1990 to 0.4% in 2005 (approximately 550 cases annually). Further analyses of the cases of ending of life without an explicit request show that these concern nearly always patients who are very close to death, are incompetent but with whom the hastening of death has been discussed earlier in the disease trajectory and/or with their relatives, and for whom opioids were used to end life
+The number of patients killed without consent was cut in half after euthanasia was legalized, and these deaths continue to be overwhelmingly done with reasonable justification.
+
+
+Forgoing of potentially life prolonging treatments (either withholding or withdrawing) and intensified alleviation of symptoms occurred much more often than active ending of life. In all of the studied years, the frequency of forgoing of life-prolonging treatments was rather stable, between 16–20% of all deaths. The percentage of the use of intensified alleviation of symptoms increased from 19% of all deaths in 1990 up to 25% in 2005.
+My prediction that euthanasia funges against use of potentially deadly symptom-relieving drugs seems to be disconfirmed, as that has increased over the period euthanasia has been more legal.
+The prediction that euthanasia would be used as a way to get rid of the elderly was also disconfirmed. The practice was much less common among the elderly than among younger people; in 2005, 3.5 percent of deaths below age 65 were euthanasia, as opposed to 0.8% of deaths above age 80. The report attributes the discrepancy to euthanasia being a more common practice in cancer patients (who tend to be younger than most terminally ill people), plus of course the overwhelmingly higher number of other causes of death in the elderly.
+Okay. Here
+s the part I want to stress, because it is a study with a very good methodology on exactly the sort of question we
+re worried about. Anne McTavish and the Patients
+ Rights Council are concerned that there were 1040 incidents in the Netherlands of doctors ending patient lives without explicit patient request. I noted that this was not euthanasia as commonly defined and should not be expected to differ between countries with and without legalized euthanasia. So let
+s see what actually happened. A study compared Netherlands (which has legalized euthanasia) with Switzerland (which has a much more limited version), and with Sweden, Denmark, Belgium and Italy (in which euthanasia was illegal at the time of this study, although Belgium has since legalized it).
+They found that although the Netherlands obviously had much more euthanasia and assisted suicide than any of these other countries, it was pretty unremarkably in the middle with regard to 
+ending of life without explicit patient request
+ 
+ Belgium was higher, Denmark was tied, and Switzerland, Sweden, and Italy were lower. However, even this doesn
+t tell the whole story, since we know the Netherlands
+ rate of this practice has cut in half when euthanasia was legalized after these numbers were collected in 2001. Assuming the other countries
+ rates stayed stable, it should now have the third lowest rate of this practice among the six countries.
+Furthermore, the Netherlands was near the bottom in 
+intensified alleviation of symptoms
+, which I think is this study
+s version of the 
+giving symptom-relieving drugs in quantities that might cause death
+. The Netherlands had less 
+intensified alleviation
+ than Denmark, Belgium, Sweden, and Switzerland, and was beaten only by Italy. Notice that a 
+huge
+ amount of anti-euthanasia advocates
+ claims about the evils of euthanasia in the Netherlands come from deaths from intensified alleviation, yet the Netherlands is actually one of the most conservative countries in Europe in this regard!
+The report ends by concluding that:
+
+
+A last important lesson that can be learnt is that the legalization of euthanasia in the Netherlands did not result in a slippery slope for medical end-of-life practices. Besides religious or principal-based arguments, the slippery slope argument is the mainstay of opponents of the legalization of euthanasia. Briefly, the argument states that: if we allow A (the use euthanasia at the request of terminally ill patients), B (abuse of euthanasia, that is, ending the life of vulnerable patient groups without their consent) will necessarily or very likely follow. B is morally not acceptable; therefore, we must not allow A (Griffiths et al. 1998; van der Burg 1992). Our studies show no evidence of a slippery slope. The frequency of ending of life without explicit patient request did not increase over the studied years. Also, there is no evidence for a higher frequency of euthanasia among the elderly, people with low educational status, the poor, the physically disabled or chronically ill, minors, people with psychiatric illnesses including depression, or racial or ethnic minorities, compared with background populations (Battin et al. 2007).
+Here is my executive summary of these findings:
+Anti-euthanasia advocates point out that in 1990 the Netherlands killed 1040 patients without explicit consent. However, closer examination of these cases shows somewhere between most and all to have taken place in circumstances most reasonable people would consider justified. Further, incidence of this practice declined after euthanasia was legalized. Most importantly, the Netherlands
+ incidence of this practice is actually relatively low compared to other European countries, and there is no evidence that its attitudes on euthanasia are causing this to happen more often.
+The numbers of 
+people killed without consent
+ are further inflated by adding people who have been given drugs like morphine for symptomatic relief. In the overwhelming majority of cases, this drugs are not intended to kill the patient and in fact do not. The Netherlands
+ incidence of this practice is, once again, significantly less than the average incidence for comparable European countries and there is no evidence that its attitudes on euthanasia affect this.
+Actual euthanasia never affects more than about 2.5% of deaths in the Netherlands, affects the elderly disproportionately 
+little
+, and does not disproportionately affect minorities, the disabled, or any of the other groups anti-euthanasia advocates suggest it might disproportionately affect. It is practically always done in accordance with strict official guidelines, after repeated and persistent explicit patient request, with the approval of family members, and with the certification of several physicians agreeing that the patient
+s disease is terminal and likely to cause intense suffering.
+The statistics used by opponents of euthanasia are almost universally built on the same misinterpretation of a 25 year old report 
+ a misinterpretation that takes its numbers out of context, which willfully misclassifies non-euthanasia causes of death as euthanasia, which ignores better and more recent data, and which has been soundly condemned as a perversion of their data by the authors of the report itself. 
+All responsible research on euthanasia in the Netherlands has found it to be applied responsibly, consensually, and in accordance with the legal guidelines, with no evidence of misapplication or of a slippery slope. These findings have been replicated in other countries that have more recently legalized euthanasia, such as Belgium.
+This is why I felt comfortable saying in 
+my last post
+ that 
+there’s loads of good data
+we can use to estimate how nonconsensual and slippery-slopey real world euthanasia is, and the answer is statistically indistinguishable from zero.

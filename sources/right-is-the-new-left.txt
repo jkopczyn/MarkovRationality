@@ -1,1 +1,415 @@
 Right Is The New Left
+[Content warning: some ideas that might make you feel anxious about your political beliefs. Epistemic status: very speculative and not necessarily endorsed. This post is less something I will defend to the death and more a form of self-therapy.]
+I.
+Let
+s explain fashion using cellular automata. This isn
+t going to be cringe-inducingly nerdy at all!
+We
+ll start with a one-dimensional vertical 
+world
+ a single cell thick and however many cells we want tall. Cells can be in one of two states, 
+black
+ or 
+white
+. We start with the top cell 
+black
+ and all the other cells white, and the world changes with granular time (
+ticks
+) according to the following rules:
+1. On each tick, a cell tries to be the same color that the cell above it was last tick.
+
+
+2. On each tick, a cell tries NOT to be the same color that the cell below it was last tick.
+
+
+3. If they ever conflict, Rule 1 takes precedence over Rule 2.
+
+
+4. If none of these rules apply, a cell stays as it is.
+Here
+s what we get with a world four cells tall.
+And here
+s what we get with a world ten cells tall.
+It looks like what we
+re getting is a 
+setup period
+ as the column fills, followed by a 
+sandwich effect
+ of two-cell-tall black rectangles separated by two-cell-tall white rectangles gradually moving down the column. Although this isn
+t 
+really
+ what happens, it also looks like rectangles that fall off the bottom reappear on the top. The overall effect is sort of like a barber pole.
+Okay, now let
+s get to the fashion.
+Consider a group of people separated by some ranked attribute. Let
+s call it 
+class
+. There are four classes: the upper class, the middle class, the lower class, and, uh, the underclass. 
+Everyone wants to look like they are a member of a higher class than they actually are. But everyone also wants to avoid getting mistaken for a member of a poorer class. So for example, the middle-class wants to look upper-class, but also wants to make sure no one accidentally mistakes them for lower-class.
+But there is a limit both to people
+s ambition and to their fear. No one has any hopes of getting mistaken for a class 
+two
+ levels higher than their own: a lower-class person may hope to appear middle-class, but their mannerisms, accent, appearance, peer group, and whatever make it permanently impossible for them to appear upper-class. Likewise, a member of the upper-class may worry about being mistaken for middle-class, but there is no way they will ever get mistaken for lower-class, let alone underclass.
+So suppose we start off with a country in which everyone wears identical white togas. One day the upper-class is at one of their fancy upper-class parties, and one of them suggests that they all wear black togas instead, so everyone can recognize them and know that they
+re better than everyone else. This idea goes over well, and the upper class starts wearing black.
+After a year, the middle class notices what
+s going on. They want to pass for upper-class, and they expect to be able to pull it off, so they start wearing black too. The lower- and underclasses have no hope of passing for upper-class, so they don
+t bother.
+After two years, the lower-class notices the middle-class is mostly wearing black now, and they start wearing black to pass as middle-class. But the upper-class is very upset, because their gambit of wearing black to differentiate themselves from the middle-class has failed 
+ both uppers and middles now wear identical black togas. So they conceive an ingenious plan to switch back to 
+white
+ togas. They don
+t worry about being confused with the white-togaed underclass 
+ no one could 
+ever
+ confuse an upper with a lower or under 
+ but they will successfully differentiate themselves from the middles. Now the upper-class and underclass wear white, and the middle and lower classes wear black.
+It
+s easy to see that this is the n = 4 version of the cellular automaton we just discussed.
+Before I go on, an obvious objection 
+ in a real world that doesn
+t work on 
+ticks
+, how do classes coordinate like this? Like, even if someone in the upper-class sent a super-secret message by butler to every single other member of the upper class saying 
+Tomorrow we all start wearing black, don
+t tell anyone else
+, within a day the rest of the world would notice, and the upper-class
+ advantage would be lost. And surely in our real world, where the upper-class has no way of distributing secret messages to every single cool person, this would be even harder. They
+d have to announce their plan publicly, which would make the signal worthless.
+There are some technical solutions to the problem. Upper class people are richer, and so can afford to about-face very quickly and buy an entirely new wardrobe. Upper class people have upper class friends, so it
+s easier for them to notice that black is 
+in
+ and switch accordingly. 
+But I think the major solution is that there aren
+t only four classes, and no one is entirely sure what classes they can or can
+t pass for. The richest, trendiest person around wears something new, and either she is so hip that her friends immediately embrace it as a new trend, or she gets laughed at for going out in black when everyone 
+knows
+ all the cool people wear white. Her friends are either sufficiently hip that they then adopt the new trend and help it grow, or so unsure of themselves that they decide to stick with something safe, or so un-hip that when they adopt the new trend everyone laughs at them for being so clueless they think they can pull off being one of the cool people.
+Or 
+ you can
+t just copy someone else
+s outfit. That would be crass. So you have to understand the 
+spirit
+ of the fashion. But this is hard to get right if you
+re not familiar with it. The less exposure you have to the values and individuals who generated it, the more likely you
+ll get it wrong and end up looking like an idiot.
+In other words, new trends carry social risk, and only people sufficiently clued-in and trendy can be sure the benefits outweigh the risks. But as the trend catches on, it becomes less risky, until eventually you see your Aunt Gladys wearing it because she saw something about it in a supermarket tabloid, and then all the hip people have to find a new trend.
+There
+s another solution to this problem too: the upper class copies trends from the underclass. We saw this happen naturally on the 5th tick of the four-cell world, but it might be a more stable configuration than that model suggests. If the rich deliberately dress like the poor, then the middle-class have nowhere to go 
+ if they try to ape the rich, they will probably just end up looking poor instead. It is only the rich, who are at no risk of ever being mistaken for the poor, who can pull this off.
+Why do I like this model? It explains a lot of otherwise mysterious things about fashion.
+Why does fashion change so darned often? Why can
+t people just figure out what
+s pretty, then stick to that?
+Why is wearing last year
+s fashion such a faux pas? Shouldn
+t the response be 
+That person is wearing the second most fashionable outfit ever discovered; that
+s still pretty good
+?
+Why does fashion so often copy the outfits of the lower class (eg 
+ghetto chic
+?) Why, if you are shopping for men
+s shirts, are there so many that 
+literally
+ say 
+GHETTO
+ on them in graffiti-like lettering?
+And I don
+t think I
+m a random nerd coming in here and telling fashion people that I understand them better than they understand themselves. This seems to be how fashion people really think. Just look at the word 
+poser
+ (or possibly 
+poseur
+). The thrust seems to be: 
+A person who is not of the group that is cool enough to wear this fashion is trying to wear this fashion! Get 
+em!
+The big complication is that there is not one ladder of coolness going from 
+upper class
+ down to 
+underclass
+. There are businesspeople, intellectuals, punks, Goths 
+ all of whom are trying to signal something different. And there
+s more than just white or black 
+ hundreds of different colors, styles, and whatever.
+But I think this is the fundamental generator that makes it all tick. In fact, I think this principle 
+ counter-signaling hierarchies 
+ is the fundamental generator that makes 
+a lot of things tick
+.
+II.
+In the past two months I have inexplicably and very very suddenly become much more conservative.
+This isn
+t the type of conservativism where I agree with any conservative 
+policies
+, mind you. Those still seem totally wrong-headed to me. It
+s the sort of conservativism where, even though conservatives seem to be wrong about everything, often in horrible or hateful ways, they seem like probably mostly decent people deep down, whereas I have to physically restrain myself from going on Glenn Beck style rants about how much I hate leftists and how much they are ruining everything. Even though I mostly agree with the leftists whenever they say something.
+(In fact, it seems like an important observation that there is a state of mind in which, no matter what your intelligence or rationality level, Glenn Beck or Rush Limbaugh-style rants against The Left seem justifiable and fun to listen to. I cannot communicate this state of mind and don
+t know why it occurs.)
+At first I didn
+t notice this, because way back when I was a teenager and 
+very
+ leftist, I made a conscious decision that in order to counter my natural biases I should try to be as understanding and friendly to conservatives as possible. I gradually got better and better at this and didn
+t notice that I was getting 
+too
+ good at it until it suddenly started to explode.
+And now I am trying to figure out why that is.
+Like all of you, my first thought was of course 
+the pathogen stress theory of values
+. If conservative values are fueled by fear of contamination based on an inbuilt evolutionary reaction to the observed level of pathogen exposure, then my current work on an internal medicine hospital team 
+ which is pretty heavy on the death and disease even for a doctor 
+ would turn me super-conservative very quickly. But this hypothesis should mean that 
+all
+ doctors should be very conservative, which doesn
+t seem to be true. So scratch that.
+Perhaps it
+s a natural effect of settling down, having a stable job, living in my own house, and being in a long-term relationship. But again, a lot of people seem to do all those things without becoming conservative. And none of that has changed in the past few months.
+I do admit that, although I try to base my reasoned opinions on The Greater Good, a lot of my political emotions are based on fear, especially fear for my personal safety. I don
+t feel remotely threatened from the right 
+ even when I meet anti-Semites who think all Jews should die, my feelings are mostly benevolent bemusement.  I know if it ever came to any conflict between me and them, then short of them killing me instantly I would have 
+everyone in the world
+ on my side, and the possibility of it ending in any way other than with them in jail and me a hero who gets praised for his bravery in confronting them is practically zero. On the other hand, I feel massively threatened from the left, since the few times I got in a fight with 
+them
+ ended with me getting death threats and harrassment and feeling like everyone was on their side and I was totally alone. But nothing 
+new
+ of this sort has happened in the past two months. That was probably a risk factor, but it can
+t have been the trigger.
+I
+ve been under a lot of stress lately 
+ nothing serious, just very busy days at work with pretty much no free time (writing blog entries doesn
+t require free time. They just appear.) It wouldn
+t really surprise me if stress 
+were related to
+ conservativism. But I
+ve been much more stressed 
+in the past
+ without this effect. Maybe work-related stress has some special ability to cause this effect? That would explain why so many working-class people with crappy jobs end up conservative.
+The Left has been doing an unusual number of bad things in the past two months. I remember especially noticing the Eich incident and 
+invasion of the Dartmouth administration building
+ and related threats and demands. And then there was 
+that thing with the national debate championships
+ that is so horrible I still refuse to believe it and hold out hope against hope it turns out to be some absurdly irresponsible reporting or maybe a very very late April Fools
+ joke. But I feel like these sorts of things probably go on all the time, and my increased conservativism is the cause, and not the effect, of me noticing them. And I notice I don
+t feel the same level of cosmic horror when conservatives do something 
+equally outrageous
+.
+The explanation I like least is that it comes from reading too much neoreaction. I originally rejected this hypothesis because I don
+t believe most what I read. But I
+m starting to worry that there are memes that, like 
+Bohr
+s horseshoe
+, affect you whether you believe them or not: memes that 
+crystallize the wrong pattern
+, or close the wrong 
+feedback loop
+. I have long suspected social justice contains some of these. Now I worry neoreaction contains others.
+In particular I worry about the neoreactionary assumption that leftism always increases with time, and that today
+s leftism confined to a few fringe idiots whom nobody really supports today becomes tomorrow
+s mainstream left and the day after tomorrow
+s 
+you will be fired if you disagree with them
+. Without me ever really evaluating its truth-value it has wormed its way into my brain and started haunting my nightmares.
+Certain versions of it are certainly plausible. In 1960, only a handful of low status people were arguing that 
+sodomy laws
+ should be repealed, and they were all insisting that c
+mon, obviously it would never go as far as gay 
+marriage
+, we
+re just saying you shouldn
+t be put in jail for it. Meanwhile, fifty years later people are enforcing a rule that if you
+re not on board with gay marriage, you shouldn
+t be allowed to hold a high-status job.
+Of course, many leftist views, even leftist social views, don
+t spiral out of control like this. Support for abortion and gun control have stayed pretty stable for decades, radical feminism seems to have leveled off, and aside from global warming environmentalism has kind of faded into the background. But it
+s impossible to predict which ones are going to spiral 
+ to a 1960s conservative homosexuality would have seemed just about the 
+least
+ likely thing to catch on.
+So now every time I read an article about horrible conservatives 
+ like that South Carolina mayor 
+ I can dismiss it as a couple of people doing dumb things and probably the system will take care of it. If it doesn
+t take care of it by punishing him personally, it
+ll take care of it by making people like him obsolete and judged poorly by posterity. 
+But every time I read an article about horrible leftists 
+ like the one with the debate club 
+ part of me freaks out and thinks 
+ in twenty years, those are the people who are going to be getting me fired for disagreeing with them.
+And every time I want to talk about it, I freak out and worry that soon they
+ll start firing people for disagreeing with the idea that you should be able to fire people for disagreeing with ideas. Like, this could go 
+uncomfortably
+ far.
+And so there is a dark and unpleasant Orwellian part of my brain that tells me: 
+If you want a vision of the future, imagine a hack misjudging a college debate 
+ forever.
+III.
+But like I said, that
+s the explanation I like least. My favorite involves those cellular automata from before.
+A friend recently pointed out that conservatives aren
+t, on average, very smart. He illustrated this with 
+a graph of IQ vs. political belief
+ which confirms that the left has a significant advantage.
+But I look at my Facebook feed, and here is what I observe.
+I see my high school classmates 
+ a mostly unselected group of the general suburban California population 
+ posting angry left stuff like 
+Ohmigod I just heard about that mayor in South Carolina WHAT A FUCKING BIGGOT!!!
+I see the people I think of as my intellectual equals posting things that are conspicuously nuanced 
+ 
+Oh, I heard about that guy in South Carolina. Instead of knee-jerk condemnation, let
+s try to form some general principles out of it and see what it teaches us about civil society.
+And I see the people I think of as the level above me posting extremely bizarre libertarian-conservative screeds making use of advanced mathematics that I can barely understand: 
+The left keeps saying that marriage as an institution isn
+t important. But actually, if we look at this from a game theoretic perspective, marriage and social trust and forager values are all in this complicated six-dimensional antifragile network, and it emergently coheres into a beneficial equilibrium if and only if the government doesn
+t try to shift the position of any of the nodes. Just as three eighteenth-century Frenchmen and a renegade Brazilian Marxist philosopher predicted. SO HOW COME THE IDIOTS ON THE LEFT KEEPS TRYING TO MAKE GOVERNMENT SHIFT THE POSITION OF THE NODES ALL THE TIME???!
+(I will proceed to describe this level extensionally: Jonathan Haidt, Bowling Alone, time discounting, public choice theory, the Hajnal line, contract law, Ross Douthat, incentives, polycentric anything, unschooling, exit rights)
+And, I mean, I know the reason I get so many people trying to come up with bizarre mathematizations of politics is because those are the sorts of people I select as my friends. The part I don
+t get is why so many of them end up weird libertarian-conservative. Certainly not because I selected them for that. I don
+t even think they were weird libertarian-conservatives a few years ago when I met a lot of them. It just seems to have caught on.
+And my theory is that in a world where the upper class wears black and the lower class wears white, they
+re the people who have noticed that the middle class is wearing black as well, and have decided to wear white to differentiate themselves.
+It
+s the reverse of the 1950s. Assume you
+re a hip young intellectual in the 1950s. You see all these stodgy conservatives around you 
+ I don
+t even know what 
+stodgy
+ means, I just know I
+m legally obligated to use it to describe 1950s conservatives. You see Mrs. Grundy, chattering to her grundy friends about how 
+scandalous
+ it is that some people read books about sex, lecturing to the school board on how they had 
+better
+ enforce her values on the children or she will have some 
+very
+ harsh words to say to them.
+And you think 
+Whatever else I am, I
+m not going to be a mediocrity like Mrs. Grundy. I
+m not going to 
+conform
+.
+ Which, in the 1950s, meant you became a leftist, and talked about how stodgy society was fundamentally oppressive, and how you were going to value 
+different
+ things, and 
+screw
+ what Mrs. Grundy thought.
+And gradually this became sufficiently hip that even the slightly less hip intellectuals caught on and started making fun of Mrs. Grundy, and then people even less hip than that, until it became a big pileup on poor Mrs. Grundy and anyone who wanted even the slightest claim to intellectual independence or personal integrity has to prove themselves by giving long dissertations on how terrible Mrs. Grundy is.
+But when Mrs. Grundy herself joins the party, what then?
+I mean, take that article on Dartmouth. A group of angry people, stopping just short of violence, invade a school building and make threats against the president unless he meets their demands. Every student must be forced to attend moral instruction classes inculcating their (the protesters
+) values. Offensive terms must be removed from the library. And the school must take care to admit people of the 
+right
+ race. When was the last time you could hear a story like that and have it be even 
+slightly
+ probably that the mob was rightist?
+It
+s hard to argue that Mrs. Grundy is not a proud leftist by now, still chattering about how scandalous it is that people read books with the wrong values, still giving her terminally uncool speeches to the school board about how they had 
+better
+ enforce her values on the children (and if she can get the debate society on board as well, so much the better).
+There must be overwhelming temptation among hip intellectuals to differentiate themselves from Mrs. Grundy by shifting rightward.
+And perhaps so far this has been kept in check by the second rule of our cellular automaton 
+ you can
+t take a position that would get you plausibly confused for a person of lower class than you. 
+I was tickled by a conversation between two doctors I recently heard in a hospital hallway:
+
+
+Doctor 1:
+ My daughter just got a full scholarship into a really good university in Georgia.
+
+
+Doctor 2:
+ Congratulations!
+
+
+Doctor 1:
+ Thanks! But I
+m hoping she
+ll choose somewhere closer to home.
+
+
+Doctor 2:
+ Why? Because you want to be able to visit her more?
+
+
+Doctor 1:
+ There
+s that. But the other problem is that the South is full of 
+those people
+.
+
+
+Doctor 2:
+ So? Colleges are like their own world. Your daughter probably won
+t even encounter many of them.
+
+
+Doctor 1:
+ I know. But I keep worrying that just by being there, she
+ll make friends with them, and then end up bringing one home as a boyfriend.
+Those people
+ is my replacement, not the original term used by the doctor involved. The doctor involved said a much less polite word. 
+She said 
+fundies
+.
+Fundies 
+ in all of their Bible-beating gun-owning cousin-marrying stereotypicalness 
+ have so far served as the Lower Class With Which One Must Not Allow One
+s Self To Be Confused. But I think that
+s changing. Sorting mechanisms are starting to work so well that, at the top, the fundies just aren
+t plausible. In our model, people from class N can be confused with class N-1, but never with class N-2. But as the barber-pole movement of fashion creeps downward, fundies are starting to become two classes below certain people at the top, and those people no longer risk misidentification.
+I notice that, no matter how many long rants against feminism I write, everyone continues to assume I am a feminist. It
+s like, 
+He doesn
+t make too many spelling errors, his writing isn
+t peppered with racial slurs 
+ he
+s got to be a feminist. He probably just forgot the word 
+not
+ in each of his last 228 sentences.
+And I wonder if maybe the reason why I am outraged by the debate team but not by the South Carolina mayor isn
+t that I feel a greater threat from the debate team, but because I feel like there is a greater threat of me being 
+mistaken
+ for the debate team. If impotent expressions of outrage divorced from any effort to change things are ways of saying 
+I
+m not like this! I promise!
+ And I get less outraged than some other people about South Carolina because I feel confident enough in my intelligence that I don
+t worry anyone will mistake me for a fundie. But I feel less confident no one could mistake me for the sort of person who judged those debate championships, so I need to shout at them to show I
+m Not Like That. This would actually explain a lot.
+If some intellectuals no longer need to worry about being mistaken for fundies, that frees them to finally breath a sigh of relief and start making fun of Mrs. Grundy again. And that means they
+ve got to become conservatives, or libertarians, or anything, anything at all, except for leftists.
+So far it is just a few early adopters 
+ the intellectual equivalent of the very trendy people who start wearing some outrageous fashion and no one knows if it is going to catch on or whether they will be soundly mocked for it.
+And they are having a really difficult time, because a lot of conservative ideas aren
+t that great. Like, reality leaves you a lot of degrees of freedom when you
+re deciding your political self-presentation, but it doesn
+t leave you an 
+infinite
+ number of degrees of freedom, and the project of creating something that is both anti-leftist enough to serve as a fashion statement but reality-based enough not to be dumb is still going on. The reactionaries are doing an excellent job maximizing the 
+anti-leftist
+ criterion. The 
+reality-based
+ criterion is a harder egg to crack, but it makes me think of Drew Summitt, Athrelon, and some of SarahC
+s more political moments. 
+As the Commissioner puts it, 
+Evolution is at work here, but just what is evolving remains to be seen.
+When I put it like this, I realize I
+m not becoming more conservative at all. I
+m becoming anti-leftist. Actually, put that way a lot of people seem to be anti-leftist. I can
+t think of a single specific policy proposal supported by Glenn Beck. Can you?
+And I think the best explanation is that all my hip friends who I want to be like are starting to be conservative or weird-libertarian or some variety of non-leftist, and Mrs. Grundy is starting to become very obviously leftist and getting grundier by the day, and so the fashion-conscious part of my brain, the much-abused and rarely-heeded part that tells me 
+No, you can
+t go to work in sweatpants, even though it would be much more comfortable
+, is telling me 
+QUICK, DISENGAGE FROM UNCOOL PEOPLE AND START ACTING LIKE COOL PEOPLE RIGHT NOW.
+And I said this is my favorite of all the explanations. Why?
+Because if it
+s true, and it spreads beyond a couple of little subcultures, it means my worst fears are misplaced. The future isn
+t a foot stamping on the face of a a college debate team forever. It
+s people 
+ or at least some people 
+ rolling their eyes at those people and making fake vomiting noises. And then going too far, until other people have to roll their eyes at 
+those
+ people. And so on. Instead of a death spiral we get a pendulum, swinging back and forth.
+But I would hope for something even better than that. Like, at each swing of the pendulum, people learn a little. I was really impressed with how many smart and decent people thought that the Eich thing was wrong (
+and wore kilts, and played bagpipes
+shut up). Fashion does not accrete, but maybe reality does. And I would like to think that the rationalist movement is a part of that. And if that
+s true, that
+s a way in which reality will eventually come to overpower fashion and the arc of the universe might tend toward justice after all.

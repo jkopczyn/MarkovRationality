@@ -1,1 +1,60 @@
 Statistical Literacy Among Doctors Now Lower Than Chance
+Good news! 42% of doctors 
+can correctly answer
+ a true-false question on p-values! That
+s only 8% worse than a coin flip! 
+And this paragraph is your friendly reminder that six months after this study was published, the FDA decided 
+it was unsafe for individuals to look at their own genome
+ since they might misunderstand the risks involved. Instead, they must rely on their doctor. I am sure that statisticians and math professors making life-changing health or reproductive decisions feel perfectly confident being at the mercy of people whose statistics knowledge is worse than chance.
+Now that I
+ve got the sensationalism out of the way, let
+s look at this study more closely.
+The sample is 4000 Ob/Gyn residents. Ob/Gyn is a prestigious specialty that
+s able to select people with very good grades in medical school, so we
+re not looking at dummies here. These residents (beginning doctors) did a bit worse than more experienced doctors (whose performance was still not stellar). I don
+t know whether this reflects doctors learning more about statistics as they progress, better statistical education in Ye Olde Days than in the current generation, or both.
+The study looked at two questions. First was the one I mentioned above: 
+True or false: the p-value is the probability that the null hypothesis is correct
+. The correct answer is 
+false
+ 
+ the p-value is the chance of obtaining results at least as extreme as those actually obtained if the null hypothesis were true. 42% correctly said it was false, 46% said it was true, and 12% didn
+t even want to hazard a guess.
+The question seems sketchy to me. It is indeed technically false, but it seems pretty close to the truth. If I were asked to explain why the definition as given was false, the best I could do is say that your probability of the null hypothesis being true should take into account both something like your p-value, and your prior. But since no one ever receives Bayesian statistical education, I am not sure it is fair to expect a doctor to be able to generate that objection. What I would want a doctor to know is that the lower the p-value, the more conclusively the study has rejected the null hypothesis. The false definition as given accurately captures that key insight. So I
+m not sure it proves anything other than doctors not being really nitpicky over definitions.
+(which is also false, actually)
+Next came very nearly the exact same question about mammogram results as Eliezer
+s 
+Short Explanation Of Bayes Theorem
+. It offered five multiple-choice answers, so we would expect 20% correct by chance. Instead, 26% of doctors got it correct. What shocks me about this one is that the question very nearly does all the work for you and throws the right answer in your face. Compare the way it was phrased in Eliezer
+s example:
+
+
+1% of women at age forty who participate in routine screening have breast cancer.  80% of women with breast cancer will get positive mammographies.  9.6% of women without breast cancer will also get positive mammographies.  A woman in this age group had a positive mammography in a routine screening.  What is the probability that she actually has breast cancer?
+to the way it was phrased on the obstetrician study:
+
+
+Ten out of every 1,000 women have breast cancer. Of these 10 women with breast cancer, 9 test positive. Of the 990 women without cancer, about 89 nevertheless test positive. A woman tests positive and wants to know whether she has breast cancer for sure, or at least what the chances are. What is the best answer?
+The obstetrician study seems to be doing everything it can to guide people to the correct result, and 74% of people still got it wrong. And nitpicky definitions don
+t provide much of an excuse here.
+There were three other results of this study worth highlighting.
+First, people who got the statistics questions wrong were 
+more
+ likely to say they had good training in statistical literacy than those who did not, giving a rare demonstration of the 
+Dunning-Kruger effect
+ in the wild. Doctors who didn
+t know statistics were apparently so inadequate that they didn
+t realize there was any more to know, whereas those who did know some statistics at least had a faint inkling that something was missing.
+Second, women rated their statistical literacy significantly worse than men did (note that a large majority of Ob/Gyn residents are women) but did not actually do any worse on the questions. This highlights an important limitation of self-report (tendency to confuse incompetence with humility) and probably has some broader gender-related implications as well.
+And third, even though 42% of people got Question 1 correct and 26% of people Question 2, only 12% of people got both questions correct. Just from eyeballing those numbers, it doesn
+t look like getting one question right made you much more likely to do better on the other. This is very consistent with most people lucking in to the correct answer.
+I do not want to use this to attack doctors. Most doctors are technicians and not academics, and they cultivate, and should cultivate, only as much statistical knowledge as is useful for them. For a technician, 
+a p-value is that thing that gets lower when it means there
+s really strong evidence
+ is probably enough. For a technician, 
+I can
+t remember what exactly the positive predictive value of a mammogram is but it doesn
+t matter because you should follow up all suspicious mammograms with further testing anyway
+ is probably enough.
+But it really does seem relevant that only 12% of doctors can answer two simple statistics questions correctly when you
+re trying to deny the entire non-doctor population access to certain information because only doctors are good enough at statistics to understand it.

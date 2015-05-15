@@ -1,8 +1,8 @@
 import urllib2
 import re
 import codecs
+from HTMLParser import HTMLParser
 
-prefix = "http://slatestarcodex.com/20"
 filepath = "sources/"
 
 posts = [["13/07/17/","who-by-very-slow-decay/"
@@ -46,15 +46,34 @@ posts = [["13/07/17/","who-by-very-slow-decay/"
 ], ["14/03/17/", 
 "what-universal-human-experiences-are-you-missing-without-realizing-it/"]]
 
-headers = { 'User-Agent' : 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)' }
 
-need_web_download = True
+class ParagraphParser(HTMLParser):
+  def __init__(self, file):
+    self.file = file
+    self.enclosing_ps = 0
+    HTMLParser.__init__(self)
+  def handle_starttag(self, tag, attrs):
+    if tag == "p":
+      self.enclosing_ps += 1
+  def handle_endtag(self, tag):
+    if tag == "p":
+      self.enclosing_ps -= 1
+  def handle_data(self, data):
+    if self.enclosing_ps >= 1:
+      self.file.write(data+"\n")
+
 for post in posts:
-  if need_web_download:
-    try:
-      response = urllib2.urlopen(urllib2.Request(prefix+post[0]+post[1], "", headers))
-    except urllib2.HTTPError as e:
-      print e.geturl()
-      print e.read()
-    with codecs.open(filepath+post[1].rstrip('/')+".html", 'w+') as localHTML:
-      localHTML.write(response.read());
+  filename = filepath+post[1].rstrip('/')+".html"
+  print filename
+  with codecs.open(filename, 'r') as localHTML:
+    htmlLines = localHTML.readlines()
+    with codecs.open(filepath+post[1].rstrip('/')+".txt", 'w+') as textFile:
+      postParser = ParagraphParser(textFile)
+      for line in htmlLines:
+        title = re.search(r'(?<=<h1 class="pjgm-posttitle">).*(?=</h1>)', line)
+        if title:
+          textFile.write(title.group(0)+"\n")
+        if re.search(r'<!-- .pjgm-postcontent -->', line):
+          break
+        postParser.feed(line.decode('utf-8'))
+
