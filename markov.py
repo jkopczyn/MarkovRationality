@@ -43,8 +43,8 @@ files = [ "Rationality_From_AI_to_Zombies",
 
 markovFile = "db.txt"
 
-def filepath(file):
-  return "sources/"+file+".txt"
+def filepath(aFile):
+  return "sources/"+aFile+".txt"
 
 def readMarkov():
   with open(markovFile, "r") as markov:
@@ -54,8 +54,26 @@ def writeMarkov(d):
   with open(markovFile, "w") as markov:
     markov.write(json.dumps(d, separators=(',',':')))
 
-def createFirstLayer(dictionary):
+def addSuccessor(dictionary, prev, succ):
+  if not isinstance(dictionary.get(prev), dict):
+    dictionary[prev] = {}
+  if not dictionary[prev].get(succ):
+    dictionary[prev][succ] = 0
+  dictionary[prev][succ] += 1
+  return dictionary[prev]
+
+def convertCountToLayer(dictionary):
   pass
+
+def createFirstLayer(dictionary):
+  for aFile in files:
+    with open(filepath(aFile)) as page:
+      prevWord = ""
+      for line in page.readlines():
+        for word in line.split():
+          addSuccessor(dictionary, prevWord, word)
+          prevWord = word
+  return dictionary
 
 def moreLayers(dictionary):
   pass
