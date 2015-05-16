@@ -71,8 +71,9 @@ def createFirstLayer(dictionary):
       for line in page.readlines():
         prevWord = ""
         for word in line.split():
-          addSuccessor(dictionary, "", word)
+          addSuccessor(dictionary, prevWord, word)
           prevWord = word
+        addSuccessor(dictionary, prevWord, "\n")
   return dictionary
 
 def moreLayers(dictionary):
@@ -84,7 +85,7 @@ def moreLayers(dictionary):
 
 
 def main():
-  d = readMarkov()
+  d = {}
   createFirstLayer(d)
   writeMarkov(d)
 
