@@ -1,61 +1,39 @@
 Marijuana: Much More Than You Wanted To Know
-This month I work on my hospital
-s Substance Abuse Team, which means we treat people who have been hospitalized for alcohol or drug-related problems and then gingerly suggest that maybe they should use drugs a little less.
+This month I work on my hospital's Substance Abuse Team, which means we treat people 
+who have been hospitalized for alcohol or drug-related problems and then 
+gingerly suggest that maybe they should use drugs a little less.
 The two doctors leading the team are both very experienced and have kind of seen it all, so it
-s interesting to get a perspective on drug issues from people on the front line. In particular, one of my attendings is an Obama-loving long-haired hippie who nevertheless vehemently opposes medical marijuana or any relaxation on marijuana
-s status at all. He says that 
-just because I
-m a Democrat doesn
-t mean I have to support stupid policies I know are wrong
- and he
-s able to back up his opinion with an impressive variety of studies.
-To be honest, I had kind of forgotten that the Universe was allowed to contain negative consequences for legalizing drugs. What with all the mental energy it took protesting the the Drug War and getting outraged at police brutality and celebrating Colorado
-s recently permitting recreational cannabis use and so on, it had completely slipped my mind that the legalization of marijuana might have negative consequences and that I couldn
-t reject it out of hand until I had done some research.
-So I
-ve been doing the research. Not to try to convince my attending of anything 
- as the old saying goes, do not meddle in the affairs of attendings, 
-because you are crunchy and taste good with ketchup
- 
- but just to figure out where exactly things stand.
+s interesting to get a perspective on drug issues from people on the front line.
+In particular, one of my attendings is an Obama-loving long-haired hippie who
+nevertheless vehemently opposes medical marijuana or any relaxation on
+marijuana's status at all. He says that just because I'm a Democrat doesn't mean I have to
+support stupid policies I know are wrong and he's able to back up his opinion with an impressive variety of studies.
+To be honest, I had kind of forgotten that the Universe was allowed to contain
+negative consequences for legalizing drugs. What with all the mental energy it
+took protesting the the Drug War and getting outraged at police brutality and
+celebrating Colorado's recently permitting recreational cannabis use and so on,
+it had completely slipped my mind that the legalization of marijuana might have
+negative consequences and that I couldn't reject it out of hand until I had done some research.
+So I've been doing the research. Not to try to convince my attending of anything --
+as the old saying goes, do not meddle in the affairs of attendings, because you
+are crunchy and taste good with ketchup -- but just to figure out where exactly things stand.
 I. Would Relaxation Of Penalties On Marijuana Increase Marijuana Use?
-Starting in the 1970s, several states decriminalized possession of marijuana 
- that is, possession could not be penalized by jail time. It could still be penalized by fines and other smaller penalties, and manufacture and sale could still be punished by jail time.
+Starting in the 1970s, several states decriminalized possession of marijuana -- that is, possession could not be penalized by jail time. It could still be penalized by fines and other smaller penalties, and manufacture and sale could still be punished by jail time.
 Starting in the 1990s, several states legalized medical marijuana. People with medical marijuana cards, which in many cases were laughably easy to get with or without good evidence of disease, were allowed to grow and use marijuana, despite concerns that some of this would end up on the illegal market.
 Starting last week, Colorado legalized recreational use of marijuana, as well as cultivation and sale (subject to heavy regulations). Washington will follow later this year, and other states will be placing measures on their ballots to do the same.
 One should be able to evaluate to what degree marijuana use rose after these policy changes, and indeed, many people have tried 
  with greater or lesser levels of statistical sophistication.
-The 
-worst
- arguments in favor of this proposition are those like 
-this CADCA paper
-, which note that states with more liberal marijuana laws have higher rates of marijuana use among teenagers than states that do not. The proper counterspell to such nonsense is 
-Reverse Causal Arrows
- 
- could it not be that states with more marijuana users are more likely to pass proposals liberalizing marijuana laws? Yes it could. Even more likely, some third variable 
- let
-s call it 
-hippie attitudes
- 
- could be behind both high rates of marijuana use and support for liberal marijuana regimes. The states involved are places like Colorado, California, Washington, and Oregon. I think that speaks for itself. In case it doesn
-t, someone went through the statistics and found that these states had the highest rates of marijuana use among teens since 
-well
- before they relaxed drug-related punishments. Argument successfully debunked.
-A slightly more sophisticated version 
- used by the DEA 
-here
- 
-  takes the teenage marijuana use in a state one year before legalization of medical marijuana and compares it to the teenage marijuana use in a state one (or several years) after such legalization. They often find that it has increased, and blame the increase on the new laws. 
-For example
-, 28% of Californians used marijuana before it was decriminalized in the 70s, compared to 35% a few years after.  This falls victim to a different confounder 
+The worst arguments in favor of this proposition are those like this CADCA paper, which note that states with more liberal marijuana laws have higher rates of marijuana use among teenagers than states that do not. The proper counterspell to such nonsense is 
+Reverse Causal Arrows could it not be that states with more marijuana users are more likely to pass proposals liberalizing marijuana laws? Yes it could. Even more likely, some third variable let's call it hippie attitudes could be behind both high rates of marijuana use and support
+for liberal marijuana regimes. The states involved are places like Colorado,
+California, Washington, and Oregon. I think that speaks for itself. In case it
+doesn't, someone went through the statistics and found that these states had the highest rates of marijuana use among teens since well before they relaxed drug-related punishments. Argument successfully debunked.
+A slightly more sophisticated version used by the DEA here takes the teenage marijuana use in a state one year before legalization of medical marijuana and compares it to the teenage marijuana use in a state one (or several years) after such legalization. They often find that it has increased, and blame the increase on the new laws. 
+For example, 28% of Californians used marijuana before it was decriminalized in the 70s, compared to 35% a few years after.  This falls victim to a different confounder 
  marijuana use has undergone some very large swings nationwide, so the rate of increase in medical marijuana states may be the same as the rate anywhere else. Indeed, this is what was going on in California 
- its marijuana use actually rose slightly 
-less
- than the national average.
+ its marijuana use actually rose slightly less than the national average.
 What we want is a study that compares the average marijuana use in a set of states before liberalization to the average marijuana use in the country as a whole, and then does the same after liberalization to see if the ratio has increased. There are several studies that purport to try this, of which by far the best is 
-Johnston, O
-Malley 
- Bachman 1981
+Johnston, O'Malley,  Bachman 1981
 , which monitored the effect of the decriminalization campaigns of the 70s. They survey thousand of high school seniors on marijuana use in seven states that decriminalize marijuana both before and for five years after the decriminalization, and find absolutely no sign of increased marijuana use (in fact, there is a negative trend). Several other studies (eg 
 Thies 
  Register 1993
